@@ -1,0 +1,5 @@
+# The magnetometer boom that really runs out, and where the station is on the map.
+BOOM OUT	ШТАНГА
+BOOM STILL GOING OUT	ШТАНГА ЕЩЁ ВЫДВИГАЕТСЯ
+IN ORBIT ROUND %s: FLY TO %s FIRST	ВЫ НА ОРБИТЕ: %s. СНАЧАЛА ЛЕТИТЕ К: %s
+ORBIT %s	ОРБИТА %s

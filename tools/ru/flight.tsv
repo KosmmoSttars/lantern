@@ -1,0 +1,247 @@
+FREE	СВОБОДНО
+HOLD	УДЕРЖ.
+PROGRADE	ПО ХОДУ
+RETRO	ПРОТИВ ХОДА
+NORMAL	НОРМАЛЬ
+ANTI-NRM	АНТИНОРМ.
+RAD IN	К ЦЕНТРУ
+RAD OUT	ОТ ЦЕНТРА
+TGT PRO	НА ЦЕЛЬ
+TGT RETRO	ОТ ЦЕЛИ
+HORIZON	ГОРИЗОНТ
+SUN	СОЛНЦЕ
+TARGET	ЦЕЛЬ
+CIRC AP	КРУГ АП
+CIRC PE	КРУГ ПЕ
+CIRC NOW	КРУГ СЕЙЧАС
+TRANSFER	ПЕРЕХОД
+MATCH TGT	УРАВНЯТЬ
+INTERCEPT	ПЕРЕХВАТ
+Left %s's sphere of influence	Покинули сферу влияния: %s
+Entered %s's sphere of influence	Вошли в сферу влияния: %s
+Impact on %s	Удар о поверхность: %s
+Torn apart by the tides of the singularity	Разорвало приливными силами сингулярности
+Crossed the rings at %d km	Пересекли кольца на высоте %d км
+CIRCULARISE AT AP	СКРУГЛИТЬ В АПОЦЕНТРЕ
+CIRCULARISE AT PE	СКРУГЛИТЬ В ПЕРИЦЕНТРЕ
+MATCH TARGET VELOCITY	УРАВНЯТЬ СКОРОСТЬ С ЦЕЛЬЮ
+RETRO (TGT)	ПРОТИВ ХОДА (ЦЕЛЬ)
+CIRCULARISE HERE	СКРУГЛИТЬ ЗДЕСЬ
+NO TRANSFER: TARGET NOT IN THIS ORBIT	ПЕРЕХОДА НЕТ: ЦЕЛЬ НЕ НА ЭТОЙ ОРБИТЕ
+TRANSFER TO %s	ПЕРЕХОД К %s
+INTERCEPT %s	ПЕРЕХВАТ %s
+TURN, BRAKE	РАЗВОРОТ, ТОРМОЖЕНИЕ
+CLOSING	СБЛИЖЕНИЕ
+ALREADY THERE	УЖЕ НА МЕСТЕ
+Transit to %s: %s	Перелёт к %s: %s
+Transit broken off	Перелёт прерван
+In orbit round %s	На орбите: %s
+Holding beside %s	Стоим рядом: %s
+Leaving for the stars: %s	Уходим к звёздам: %s
+%d h %02d min	%d ч %02d мин
+%d min	%d мин
+%d d %02d h %02d min	%d д %02d ч %02d мин
+%d min %02d s	%d мин %02d с
+close to the target	вблизи цели
+in orbit round the target, boom out	на орбите цели, штанга выдвинута
+pointed at the target (TARGET mode)	наведён на цель (режим ЦЕЛЬ)
+nothing: it samples the radiation round the station	ничего: меряет радиацию вокруг станции
+RATIONS x10	ПАЙКИ x10
+WATER 300 kg	ВОДА 300 кг
+RAD PILLS x3	ТАБЛЕТКИ x3
+D-HE3 2000 kg	D-HE3 2000 кг
+HYDROGEN 6 t	ВОДОРОД 6 т
+HYDRAZINE 200 kg	ГИДРАЗИН 200 кг
+PATCH KITS x3	РЕМКОМПЛЕКТЫ x3
+INSTANT FILM x10	КАССЕТА x10
+LAB HAS NO POWER	ЛАБОРАТОРИЯ БЕЗ ПИТАНИЯ
+SCAN UNDER WAY	СКАН УЖЕ ИДЁТ
+DRIVE FULL: UPLINK FIRST	НАКОПИТЕЛЬ ПОЛОН: СНАЧАЛА ПЕРЕДАЙТЕ
+NOT DURING A TRANSIT	НЕ ВО ВРЕМЯ ПЕРЕЛЁТА
+NOTHING THERE TO STUDY	ИЗУЧАТЬ НЕЧЕГО
+TOO FAR: GET CLOSER	СЛИШКОМ ДАЛЕКО: ПОДОЙДИТЕ БЛИЖЕ
+BOOM NOT DEPLOYED	ШТАНГА НЕ ВЫДВИНУТА
+NOT IN ORBIT ROUND THE TARGET	НЕ НА ОРБИТЕ ЦЕЛИ
+POINT AT THE TARGET (TARGET MODE)	НАВЕДИТЕСЬ НА ЦЕЛЬ (РЕЖИМ ЦЕЛЬ)
+SCAN LOST: %s	СКАН ПОТЕРЯН: %s
+TARGET CHANGED	ЦЕЛЬ СМЕНИЛАСЬ
+%s: %s, %d MB, worth %d	%s: %s, %d МБ, стоит %d
+Scan done: %s	Скан готов: %s
+NO RELAY: CANNOT ORDER HERE	НЕТ РЕТРАНСЛЯТОРА: ЗАКАЗАТЬ НЕЛЬЗЯ
+NOT ENOUGH CREDIT	НЕ ХВАТАЕТ КРЕДИТА
+Delivery cancelled: the station left the system	Доставка отменена: станция покинула систему
+Supply drone alongside: open the CARGO PORT (comms panel, lab)	Дрон снабжения рядом: откройте ГРУЗОВОЙ ПОРТ (панель связи, лаборатория)
+Drone docked at the airlock: a crate in the airlock	Дрон пристыковался к шлюзу: в шлюзе ящик
+Map	Карта
+Pick a destination	Выбрать цель
+no star picked	звезда не выбрана
+radio source	радиоисточник
+MAP  %s	КАРТА  %s
+DEST %s	ЦЕЛЬ %s
+DERELICT %s%s	ОБЛОМОК %s%s
+EMPTY	ПУСТ
+IN TRANSIT	В ПЕРЕЛЁТЕ
+ARRIVE IN %s	ПРИБЫТИЕ ЧЕРЕЗ %s
+DIST %s	ДИСТ %s
+FLIGHT %s	ПОЛЁТ %s
+FUEL %d kg D-HE3	ТОПЛИВО %d кг D-HE3
+ENGAGE READY	ПУСК ГОТОВ
+SCALE %s / 100 px	МАСШТАБ %s / 100 пикс
+10 LY  NO PULSAR FIX	10 СВ.Л.  НЕТ ПРИВЯЗКИ
+RADIO PULSES	РАДИОИМПУЛЬСЫ
+STAR MAP  FROM %s	ЗВЁЗДНАЯ КАРТА  ОТ %s
+DEST UNCHARTED	ЦЕЛЬ НЕ НАНЕСЕНА
+DIST ~%d LY	ДИСТ ~%d СВ.Л.
+FLIGHT ~%s	ПОЛЁТ ~%s
+FUEL ~%d kg D-HE3	ТОПЛИВО ~%d кг D-HE3
+DEST %s  %s	ЦЕЛЬ %s  %s
+DIST %.2f LY	ДИСТ %.2f СВ.Л.
+DEST RADIO SOURCE	ЦЕЛЬ РАДИОИСТОЧНИК
+DIST %.1f LY	ДИСТ %.1f СВ.Л.
+TOUCH A STAR, OR ANYWHERE IN THE DARK	КОСНИТЕСЬ ЗВЕЗДЫ ИЛИ ЛЮБОЙ ТОЧКИ ВО ТЬМЕ
+BETWEEN THE STARS: %s	МЕЖДУ ЗВЁЗДАМИ: %s
+SCALE %.1f LY / 100 px   WHEEL IN: BACK TO THE SYSTEM	МАСШТАБ %.1f СВ.Л. / 100 пикс   КОЛЕСО: НАЗАД К СИСТЕМЕ
+YOU ARE HERE	ВЫ ЗДЕСЬ
+NO SUCH STAR	НЕТ ТАКОЙ ЗВЕЗДЫ
+BEYOND %d LY: NEEDS A PULSAR TIMING FIX	ДАЛЬШЕ %d СВ.Л.: НУЖНА ПУЛЬСАРНАЯ ПРИВЯЗКА
+Sol	Солнце
+the Solar System: home	Солнечная система: дом
+Sun	Солнце
+Mercury	Меркурий
+Venus	Венера
+Earth	Земля
+Moon	Луна
+Mars	Марс
+Phobos	Фобос
+Deimos	Деймос
+Jupiter	Юпитер
+Io	Ио
+Europa	Европа
+Ganymede	Ганимед
+Callisto	Каллисто
+Saturn	Сатурн
+Mimas	Мимас
+Enceladus	Энцелад
+Tethys	Тефия
+Dione	Диона
+Rhea	Рея
+Titan	Титан
+Iapetus	Япет
+Uranus	Уран
+Miranda	Миранда
+Ariel	Ариэль
+Umbriel	Умбриэль
+Titania	Титания
+Oberon	Оберон
+Neptune	Нептун
+Triton	Тритон
+Pluto	Плутон
+Charon	Харон
+red dwarf	красный карлик
+yellow star	жёлтая звезда
+orange star	оранжевая звезда
+blue giant	голубой гигант
+white dwarf	белый карлик
+brown dwarf	коричневый карлик
+rogue planet	планета-сирота
+black hole	чёрная дыра
+pulsar	пульсар
+ice giant	ледяной гигант
+gas giant	газовый гигант
+a rogue planet: no star, only the dark between	планета-сирота: ни звезды, только тьма между
+a red dwarf, dim and patient	красный карлик, тусклый и терпеливый
+an orange star	оранжевая звезда
+a yellow star like the Sun	жёлтая звезда, как Солнце
+a blue giant, burning fast	голубой гигант, горит быстро
+a white dwarf, the cooling ember of a star	белый карлик, остывающий уголёк звезды
+a brown dwarf, too small to shine	коричневый карлик, слишком мал, чтобы светить
+a pulsar: a spinning neutron star sweeping the sky with its beams	пульсар: вращающаяся нейтронная звезда метёт небо лучами
+a black hole: a singularity in a burning disk	чёрная дыра: сингулярность в горящем диске
+CARGO MODULE	ГРУЗОВОЙ МОДУЛЬ
+FUEL DEPOT	ТОПЛИВНЫЙ СКЛАД
+SURVEY TENDER	РАЗВЕДЧИК
+HAB MODULE	ЖИЛОЙ МОДУЛЬ
+RELAY POD	РЕТРАНСЛЯТОР
+Ration trays x%d	Подносы с пайками x%d
+Water containers (%d kg)	Канистры с водой (%d кг)
+D-He3 canister (%d kg)	Контейнер D-He3 (%d кг)
+Hydrazine cylinder (%d kg)	Баллон гидразина (%d кг)
+Patch kit case x%d	Ящик ремкомплектов x%d
+Medical kit: rad pills x%d	Аптечка: таблетки от радиации x%d
+Instant film pack x10	Кассета для моментальной камеры x10
+Reactor fuel assembly x%d (to the rack)	ТВС реактора x%d (на стеллаж)
+Ration tray	Поднос с пайком
+ALREADY DOCKED	УЖЕ СОСТЫКОВАН
+SHUT THE OUTER HATCH	ЗАКРОЙТЕ ВНЕШНИЙ ЛЮК
+NOTHING DOCKED	НИЧЕГО НЕ ПРИСТЫКОВАНО
+Docked: %s. The airlock's outer hatch now opens into it (in vacuum).	Состыковано: %s. Внешний люк шлюза теперь ведёт в него (там вакуум).
+Derelict	Обломок
+LAST ONE OUT	ПОСЛЕДНИЙ ВЫХОДЯЩИЙ
+Lights off. Oxygen off.\nHatch open for the next crew.	Свет выключить. Кислород выключить.\nЛюк открыт для следующего экипажа.
+KEEP THIS MODULE TIDY	ДЕРЖИТЕ МОДУЛЬ В ПОРЯДКЕ
+Everything strapped down.\nEverything.	Всё закреплено.\nВсё.
+CREW OF FOUR	ЭКИПАЖ ИЗ ЧЕТЫРЁХ
+Back by Christmas.\nWe promise.	Вернёмся к Рождеству.\nОбещаем.
+NOTICE	ОБЪЯВЛЕНИЕ
+Take	Взять
+Taken aboard: %s%s	Взято на борт: %s%s
+(nothing else left)	(больше ничего нет)
+died of thirst	умер от жажды
+starved	умер от голода
+suffocated	задохнулся
+poisoned by carbon dioxide	отравился углекислым газом
+froze	замёрз
+died of heat	умер от перегрева
+died of radiation sickness	умер от лучевой болезни
+killed by radiation	убит радиацией
+blown apart by the reactor	разорван взрывом реактора
+HUNGRY	ГОЛОДЕН
+THIRSTY	ЖАЖДА
+TIRED	УСТАЛ
+WEAK	СЛАБОСТЬ
+HEADACHE	ГОЛОВНАЯ БОЛЬ
+COLD	ХОЛОДНО
+STARVING	ИСТОЩЕНИЕ
+PARCHED	ОБЕЗВОЖИВАНИЕ
+EXHAUSTED	ИЗНЕМОЖЕНИЕ
+RADIATION SICK	ЛУЧЕВАЯ БОЛЕЗНЬ
+SHORT OF AIR	НЕ ХВАТАЕТ ВОЗДУХА
+Click to take control	Щёлкните, чтобы взять управление
+Keep it aboard. Turn the pages with the wheel.	Держите на борту. Страницы листаются колесом.
+CONTENTS	СОДЕРЖАНИЕ
+PAGE %d / %d     WHEEL  TURN	СТР. %d / %d     КОЛЕСО  ЛИСТАТЬ
+asleep	спит
+Hold LMB: pulled in to the grip    Let go to fly on    RMB: push off where you look    Wheel: hang closer / farther	Удерживайте ЛКМ: подтянуться к опоре    Отпустите — полетите дальше    ПКМ: оттолкнуться туда, куда смотрите    Колесо: ближе / дальше
+Mouse toward you: pull forward    Away: push back    Let go while moving to fly    RMB: look    Wheel: in / out	Мышь на себя: вперёд    От себя: назад    Отпустите на ходу, чтобы лететь    ПКМ: осмотреться    Колесо: ближе / дальше
+Look where to go, click LMB to push off (look at the wall to let go)    Wheel: pull in / let out	Смотрите, куда лететь, и щёлкните ЛКМ, чтобы оттолкнуться (взгляд на стену — отпустить)    Колесо: ближе / дальше
+Look where to go and let go of LMB to push off (hold on longer = harder)    Wheel: pull in / let out	Смотрите, куда лететь, и отпустите ЛКМ, чтобы оттолкнуться (дольше держите — сильнее)    Колесо: ближе / дальше
+Click  let go	Щелчок  отпустить
+Release LMB  let go	Отпустите ЛКМ  отпустить
+Wheel  turn the page      %s      RMB  throw	Колесо  листать      %s      ПКМ  бросить
+E  raise it to your eye      %s      RMB  throw	E  поднести к глазу      %s      ПКМ  бросить
+Let go over the photo board to pin it up      RMB  throw	Отпустите над доской, чтобы приколоть      ПКМ  бросить
+%s      RMB  throw	%s      ПКМ  бросить
+Umbilical	Фал
+Hold LMB: pull yourself along it	Удерживайте ЛКМ: подтягивайтесь по нему
+Throw	Бросить
+Use what you hold (camera: take a photo)	Использовать то, что в руке (камера: снимок)
+Haul in the umbilical	Подтянуться по фалу
+Low	Низкое
+Medium	Среднее
+High	Высокое
+Ultra	Ультра
+Left mouse	Левая кнопка мыши
+Right mouse	Правая кнопка мыши
+Middle mouse	Средняя кнопка мыши
+Wheel up	Колесо вверх
+Wheel down	Колесо вниз
+Mouse 4	Мышь 4
+Mouse 5	Мышь 5
+Voice	Голос
+HIGH RADIATION	СИЛЬНАЯ РАДИАЦИЯ
+VELOCITY:	СКОРОСТЬ:
+ALTITUDE:	ВЫСОТА:
+T-ORBIT:	ВИТОК:
+  EMPTY	  ПУСТО
+DRAG  TURN    WHEEL  ZOOM	ТЯНИ  ПОВОРОТ    КОЛЕСО  МАСШТАБ
+Pick a destination, drag to turn	Выбрать цель, тянуть — повернуть

@@ -1,0 +1,9 @@
+.godot/
+build/
+screenshots/
+*.avi
+/Lantern.exe
+
+# Reference footage, not part of the game
+*.mp4
+NEXT_CHAT.md

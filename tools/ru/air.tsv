@@ -1,0 +1,23 @@
+# Breathing is a given: the air only as pressure, the hose only holds you.
+The derelict lets go with you aboard: the umbilical tears loose. Push off for the station!	Обломок уходит вместе с вами: фал оборван. Отталкивайтесь к станции!
+The umbilical goes with the airlock	Фал ушёл вместе со шлюзом
+Clipped on: %d m of hose	Фал пристёгнут: %d м шланга
+At the hose reel by the outer hatch, press CLIP ON: 60 m of hose holding you to the station.	У катушки фала возле внешнего люка нажмите ПРИСТЕГНУТЬ: 60 м шланга держат вас у станции.
+Press the reel's button again to unclip. Going on into the Node, the hose stays on its reel by itself.	Чтобы отстегнуться, нажмите кнопку на катушке ещё раз. Если пройти дальше в узел, фал останется на катушке сам.
+GREENHOUSE: a tray of food every two hours under its grow lamps (hold LMB on the floor tray to pick).	ОРАНЖЕРЕЯ: лоток еды каждые два часа под фитолампами (удерживайте ЛКМ на нижнем лотке, чтобы собрать).
+CLIPPED ON	ПРИСТЁГНУТ
+AIR	ВОЗДУХ
+CABIN AIR	ВОЗДУХ КАБИНЫ
+PRESS %5.1f	ДАВЛ %5.1f
+# The air never runs out: life support makes up what leaks.
+CABIN %.1f kPa	КАБИНА %.1f кПа
+The leak has stopped: life support brings the pressure back up	Утечка прекратилась: жизнеобеспечение вернёт давление само
+Life support module, LIFE SUPPORT panel: CABIN FANS and RECYCLER on.	Модуль жизнеобеспечения, панель ЖИЗНЕОБЕСПЕЧЕНИЕ: вентиляцию и РЕГЕНЕРАЦИЮ включить.
+Life support makes up the air that leaks: only a big hole (both airlock hatches open) outruns it.	Жизнеобеспечение само восполняет утечку воздуха: не справляется только с большой дырой (оба люка шлюза открыты).
+It has no air. PRESSURIZE on until EQUAL lights, or bleed the cabin's own air into it with the small valve under the wheel. Until then the port hatch stays shut.	Воздуха в нём нет. Включите ЗАПОЛНЕНИЕ, пока не загорится РАВНО, или стравите в него воздух станции маленьким клапаном под штурвалом. До тех пор люк порта не откроется.
+Inside it is dark: a torch or the helmet lamp (F). Hold LMB on a thing to take it into the stores: water, rations, fuel, patch kits, medicine, film.	Внутри темно: фонарь (F). Удерживайте ЛКМ на вещи, чтобы забрать её на склад: вода, пайки, топливо, ремкомплекты, лекарства, плёнка.
+SHUT THE HATCH BEFORE YOU UNDOCK.	ЗАКРОЙТЕ ЛЮК ПЕРЕД РАССТЫКОВКОЙ.
+RATIONS	ПАЙКИ
+PATCH KITS	РЕМКОМПЛ.
+FILM	ПЛЁНКА
+REPRESS	НАДДУВ

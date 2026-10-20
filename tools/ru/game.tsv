@@ -1,0 +1,231 @@
+YOU %s	КОНЕЦ: %s
+Back to the last log entry...	Назад к последней записи...
+LANTERN  //  %s	ЛАНТЕРН  //  %s
+ALT %s    V %.2f km/s	ВЫС %s    V %.2f км/с
+REACTOR %3d %%    BATT %3d %%	РЕАКТОР %3d %%    БАТ %3d %%
+CLOCK  %s	ВРЕМЯ  %s
+Hold LMB on any surface: your arm pulls you to it. Let go on the way to fly on.	Удерживайте ЛКМ на любой поверхности: рука подтянет вас к ней. Отпустите по пути — полетите дальше.
+RMB while holding on pushes off where you look. The wheel turns knobs, selectors and levers.	ПКМ, пока держитесь, — толчок туда, куда смотрите. Колесо крутит ручки, переключатели и рычаги.
+The station manual floats about the cockpit: catch it, and the wheel turns its pages.	Руководство по станции плавает в рубке: поймайте его, колесо листает страницы.
+The map is set into the floor ahead of you, under the cupola: touch a body to pick it, wheel to zoom.	Карта встроена в пол перед вами, под куполом: коснитесь тела, чтобы выбрать, колесо — масштаб.
+Galley, medicine and the sleeping bag are in Habitation: aft, past Engineering and the Node.	Камбуз, аптечка и спальник в жилом отсеке: к корме, за техотсеком и узлом.
+Science pays for supplies. The lab is to port off the Node, the airlock to starboard.	Наука оплачивает снабжение. Лаборатория — слева от узла, шлюз — справа.
+Saturn orbit. The crew has gone home. You stayed.	Орбита Сатурна. Экипаж улетел домой. Вы остались.
+You pass out	Вы теряете сознание
+DV COUNTER ZERO	СЧЁТЧИК ΔV НОЛЬ
+Bolts fired: %s away. %s	Пироболты сработали: %s отделён. %s
+Batteries and solar only from now on	Теперь только батареи и солнце
+Blast seal shut	Аварийная заглушка закрыта
+REACTOR EXPLOSION: %s. The module is gone; Life support is holed. Patch it, and get clear of the cloud	ВЗРЫВ РЕАКТОРА: %s. Модуля больше нет, в жизнеобеспечении пробоина. Заделайте её и уходите от облака
+Ring particles hit the hull	Частицы колец бьют по корпусу
+UNDOCK FIRST	СНАЧАЛА РАССТЫКУЙТЕСЬ
+TORCH NOT LIT	ФАКЕЛ НЕ ЗАЖЖЁН
+THROTTLE TO FULL	ТЯГУ НА ПОЛНУЮ
+NOT ENOUGH D-HE3	НЕ ХВАТАЕТ D-HE3
+HOSE %d / %d m	ФАЛ %d / %d м
+DRIFT %.1f m/s	ДРЕЙФ %.1f м/с
+The umbilical is at its full length	Фал вытянут на всю длину
+The air tore out through the open hatch	Воздух вырвался через открытый люк
+The leak has stopped	Утечка прекратилась
+The leak has stopped. Air back: O2 and N2 REPRESS to AUTO (Life support)	Утечка прекратилась. Верните воздух: НАДДУВ O2 и N2 в АВТО (жизнеобеспечение)
+No rations left	Пайки кончились
+Not hungry	Не голоден
+Ration eaten  (%d left)	Паёк съеден  (осталось %d)
+The water tank is dry	Бак с водой пуст
+Not thirsty	Пить не хочется
+Water	Вода
+No pills left	Таблетки кончились
+Anti-radiation pill  (%d left)	Таблетка от радиации  (осталось %d)
+The alarm woke you	Разбудила тревога
+Woken on arrival	Разбудили по прибытии
+Hunger woke you	Разбудил голод
+Thirst woke you	Разбудила жажда
+%s  (slept %s)	%s  (спали %s)
+You wake up rested	Вы проснулись отдохнувшим
+Not tired enough to sleep	Вы ещё не устали
+Too hungry and thirsty to sleep	Слишком голодны и хотите пить, чтобы спать
+Not with the alarms going	Не под звук тревоги
+A bang on the hull woke you	Разбудил удар по корпусу
+The flare warning woke you	Разбудило предупреждение о вспышке
+The reactor alarm woke you	Разбудила тревога реактора
+Impact! Hull breach in %s	Удар! Пробоина: %s
+The %s is damaged outside	Снаружи повреждено: %s
+Solar flare in one minute: shelter in %s	Солнечная вспышка через минуту: укройтесь в отсеке «%s»
+The flare is here: stay in %s	Вспышка началась: оставайтесь в отсеке «%s»
+The flare has passed	Вспышка прошла
+Fault: breaker %s tripped	Неисправность: выбит автомат %s
+Reactor: primary coolant leak. Seal it (patch kit), then FILL from the reserve	Реактор: утечка первого контура. Заделайте (ремкомплект), затем ДОЛИВ из запаса
+Reactor: coolant pumps tripped. No flow: reset the RX PUMP breaker	Реактор: насосы отключились. Расхода нет: включите автомат НАСОС РЕАКТ.
+Reactor SCRAM: the rods dropped on a false signal. Restart it	Реактор: ложное срабатывание АЗ, стержни упали. Перезапустите
+Reactor: the biological shield has cracked. The reactor room is hot: patch it quickly	Реактор: треснула биологическая защита. В отсеке сильный фон: заделайте быстро
+Message from the Office (comms panel, LOG)	Сообщение от Бюро (панель связи, ЖУРНАЛ)
+%d star systems   %.1f light years from the Sun   %d credits earned   %s aboard	Звёздных систем: %d   %.1f св. лет от Солнца   заработано кредитов: %d   на борту %s
+LANTERN, OFFICE. The crew landed this morning, all well. They asked us to thank you. You chose to stay with her; she is yours to run. Send us what you find out there and we will keep you fed.	ЛАНТЕРН, БЮРО. Экипаж сел сегодня утром, все целы. Просили вас поблагодарить. Вы решили остаться с ней — теперь она ваша. Присылайте, что найдёте, а мы будем вас кормить.
+Data received, clean and complete. Credit posted. Keep it coming.	Данные получены, чистые и полные. Кредит начислен. Продолжайте.
+We watched you leave the Sun behind. Nobody has gone where you are. Mind the D-He3: the drones cannot follow you between the stars.	Мы видели, как вы оставили Солнце позади. Там, где вы, не был никто. Берегите D-He3: дроны не долетят до вас между звёздами.
+Timing fix confirmed. Your navigation computer can plot the long crossings now. Be careful with that.	Привязка подтверждена. Теперь навигационный вычислитель прокладывает дальние переходы. Осторожнее с этим.
+Five systems. The board would like you home; we would like you to do what you think is right. If you come back, we will meet you in orbit round Earth.	Пять систем. Совет хочет, чтобы вы вернулись; мы хотим, чтобы вы поступили, как считаете правильным. Если вернётесь, встретим вас на орбите Земли.
+There is something in your last uplink we cannot explain: a pulse train, very regular, very old. It repeats from deeper in.	В вашей последней передаче есть то, чего мы не можем объяснить: серия импульсов, очень ровная, очень древняя. Она повторяется откуда-то из глубины.
+You are past anything we could send after you in our lifetimes. If you go on, we will keep listening for as long as the relays carry you. The SIGN OFF switch is on the comms panel, under its cover.	Вы дальше всего, что мы успели бы послать за вами при жизни. Если пойдёте дальше, мы будем слушать, пока ретрансляторы вас слышат. Тумблер КОНЕЦ СВЯЗИ — на панели связи, под крышкой.
+Earth fills the cupola, blue and ordinary and impossible.	Земля заполняет купол — голубая, обычная и невозможная.
+The Office sends a ship up to meet you. Somebody has painted your name on it.	Бюро высылает навстречу корабль. Кто-то написал на нём ваше имя.
+You bring Lantern home with her tanks nearly dry and her drives full of the sky.	Вы приводите «Лантерн» домой — баки почти пусты, а накопители полны неба.
+COME HOME	ВОЗВРАЩЕНИЕ ДОМОЙ
+The disk wraps round the cupola and the stars behind you crowd into a ring of light.	Диск обволакивает купол, а звёзды позади сбиваются в кольцо света.
+The uplink still runs. Every second you send is worth more than the station.	Передача ещё идёт. Каждая отправленная секунда дороже всей станции.
+Then the light is everywhere, and then it is not anywhere at all.	Потом свет повсюду, а потом его нет нигде.
+BEYOND THE HORIZON	ЗА ГОРИЗОНТОМ
+You close the cover over the switch and the relay's carrier fades to hiss.	Вы закрываете крышку над тумблером, и несущая ретранслятора тонет в шипении.
+Lantern turns her bow to the next star. The torch lights, steady and blue.	«Лантерн» разворачивается к следующей звезде. Факел зажигается, ровный и голубой.
+Somewhere far behind you, people keep listening.	Где-то далеко позади люди продолжают слушать.
+A LANTERN AMONG THE STARS	ФОНАРЬ СРЕДИ ЗВЁЗД
+The core slumps through its vessel and the shield glows from the inside.	Активная зона проседает сквозь корпус, защита светится изнутри.
+The hull aft of Life support opens like a flower. Lantern rolls, and keeps rolling.	Корпус за жизнеобеспечением раскрывается, как цветок. «Лантерн» кувыркается и не останавливается.
+Somewhere a beacon goes on blinking a name nobody is left to answer to.	Где-то маяк продолжает мигать имя, на которое некому отозваться.
+MELTDOWN	РАСПЛАВ
+DANGER	ОПАСНО
+OUTER HATCH: NO INTERLOCK	ВНЕШНИЙ ЛЮК: БЛОКИРОВКИ НЕТ
+Pump the airlock down to VACUUM\nbefore you turn the wheel.	Откачайте шлюз до ВАКУУМА,\nпрежде чем крутить штурвал.
+Oxygen. Battery. Umbilical.\nThen the hatch.	Кислород. Батарея. Фал.\nПотом люк.
+HOLD ON	ДЕРЖИСЬ
+A loose keeper is a hazard\nto every switch aboard.	Незакреплённый смотритель —\nугроза любому тумблеру.
+HIGH VOLTAGE	ВЫСОКОЕ НАПРЯЖЕНИЕ
+Buses A and B carry 120 V.\nBreaker out before you touch.	На шинах A и B 120 В.\nВыбей автомат, потом трогай.
+RADIATION	РАДИАЦИЯ
+Reactor aft of Life support.\nDo not linger by the shield.	Реактор — за жизнеобеспечением.\nНе задерживайся у защиты.
+FLARE SHELTER	УБЕЖИЩЕ ОТ ВСПЫШЕК
+On a flare warning go aft to\nLIFE SUPPORT and stay there.	При угрозе вспышки — в отсек\nЖИЗНЕОБЕСПЕЧЕНИЯ, и ни шагу.
+NO OPEN FLAMES	НИКАКОГО ОТКРЫТОГО ОГНЯ
+Not even a birthday candle.	Даже свечки на торте.
+SECURE LOOSE ITEMS	ЗАКРЕПЛЯЙ ВЕЩИ
+A floating pen is a projectile.	Летящая ручка — снаряд.
+SAFETY	ТЕХНИКА БЕЗОПАСНОСТИ
+WATER IS LIFE	ВОДА — ЭТО ЖИЗНЬ
+Keep the recycler running.	Держи регенерацию включённой.
+FIRE: MASK FIRST	ПОЖАР: СНАЧАЛА МАСКА
+Breathing apparatus on\nbefore you look for the fire.	Надень дыхательный аппарат,\nпотом ищи огонь.
+CAUTION	ВНИМАНИЕ
+GAME	ИГРА
+CONTROLS	УПРАВЛЕНИЕ
+DISPLAY	ИЗОБРАЖЕНИЕ
+AUDIO	ЗВУК
+ONE KEEPER  ·  ONE STATION  ·  SATURN AND BEYOND	ОДИН СМОТРИТЕЛЬ  ·  ОДНА СТАНЦИЯ  ·  САТУРН И ДАЛЬШЕ
+// PAUSED	// ПАУЗА
+PROTOTYPE BUILD      ↑↓ / MOUSE  CHOOSE      ENTER  SELECT      ESC  BACK	ПРОТОТИП      ↑↓ / МЫШЬ  ВЫБОР      ENTER  ПОДТВЕРДИТЬ      ESC  НАЗАД
+CONTINUE	ПРОДОЛЖИТЬ
+NEW JOURNEY	НОВЫЙ ПУТЬ
+SETTINGS	НАСТРОЙКИ
+QUIT	ВЫХОД
+ESC  RESUME	ESC  ПРОДОЛЖИТЬ
+RESUME	ПРОДОЛЖИТЬ
+SAVE AND QUIT TO TITLE	СОХРАНИТЬ И ВЫЙТИ В МЕНЮ
+SAVE AND QUIT TO DESKTOP	СОХРАНИТЬ И ВЫЙТИ НА РАБОЧИЙ СТОЛ
+Start a new journey?\nThe one you are on will be lost.	Начать новый путь?\nТекущий будет потерян.
+START OVER	НАЧАТЬ ЗАНОВО
+CANCEL	ОТМЕНА
+ESC  BACK	ESC  НАЗАД
+RESET PAGE	СБРОСИТЬ СТРАНИЦУ
+HOW THE KEEPER MOVES AND FEELS	КАК СМОТРИТЕЛЬ ДВИЖЕТСЯ И ЧУВСТВУЕТ
+KEYS  ·  CLICK ONE, THEN PRESS THE NEW KEY	КЛАВИШИ  ·  ЩЁЛКНИТЕ, ЗАТЕМ НАЖМИТЕ НОВУЮ
+THE PICTURE	КАРТИНКА
+SOUND	ЗВУК
+■ ON 	■ ВКЛ
+□ OFF	□ ВЫКЛ
+LANGUAGE	ЯЗЫК
+Language	Язык
+The language of the panels, the screens, the manuals and the menus.	Язык панелей, экранов, руководств и меню.
+ENGLISH	ENGLISH
+LOOKING	ОБЗОР
+Mouse sensitivity	Чувствительность мыши
+How far the view turns for a move of the mouse.	Насколько поворачивается взгляд при движении мыши.
+Gamepad look speed	Скорость обзора на геймпаде
+How fast the right stick turns the view.	Как быстро правый стик поворачивает взгляд.
+Invert vertical look	Инвертировать вертикаль
+Mouse forward looks down instead of up.	Мышь от себя — взгляд вниз, а не вверх.
+Field of view	Поле зрения
+How wide you see, in degrees. Wider shows more of the cabin; narrower feels closer.	Ширина обзора в градусах. Шире — видно больше отсека; уже — ощущение ближе.
+HANDS	РУКИ
+Holding on	Как держаться
+Pull: hold LMB on a surface and the arm pulls you to it; let go to fly on. Drag: the mouse pulls and pushes you round the grip. Push-off: free look, let go or RMB to push off.	Подтягивание: держите ЛКМ на поверхности — рука подтянет вас к ней; отпустите — полетите дальше. Перехват: мышь тянет и толкает вас вокруг опоры. Толчок: свободный обзор, отпустите или ПКМ — оттолкнуться.
+PULL TO THE GRIP	ПОДТЯГИВАНИЕ
+DRAG ROUND THE GRIP	ПЕРЕХВАТ
+LOOK AND PUSH OFF	ВЗГЛЯД И ТОЛЧОК
+Grab button	Кнопка захвата
+Hold the button to hang on, or click once to grab and again to let go.	Держите кнопку, чтобы держаться, или щёлкните, чтобы схватиться, и ещё раз, чтобы отпустить.
+HOLD TO HOLD ON	ДЕРЖАТЬ
+CLICK TO GRAB	ЩЕЛЧОК
+Flick to push off	Толчок рывком мыши
+A quick flick of the mouse toward you while holding on also pushes off. Off by default: a fast glance down can set it off.	Резкий рывок мыши на себя, пока держитесь, тоже отталкивает. По умолчанию выключено: быстрый взгляд вниз может сработать случайно.
+COMFORT	КОМФОРТ
+Screen shake	Тряска экрана
+How hard knocks, impacts and blowouts shake the view. 0 turns it off.	Насколько удары и разгерметизации трясут картинку. 0 — выключено.
+First-minute hints	Подсказки в начале
+Short tips in the first minutes of a new journey.	Короткие советы в первые минуты нового пути.
+KEYS	КЛАВИШИ
+PRESS A KEY ·  ESC CANCELS	НАЖМИТЕ КЛАВИШУ ·  ESC — ОТМЕНА
+Click, then press the key or mouse button for this. A key already in use swaps over.	Щёлкните, затем нажмите клавишу или кнопку мыши. Занятая клавиша поменяется местами.
+FIXED	НЕИЗМЕННЫЕ
+Look	Обзор
+MOUSE	МЫШЬ
+Hold on, pulled to the grip	Держаться, подтянуться к опоре
+HOLD LMB	ДЕРЖАТЬ ЛКМ
+Push off where you look	Оттолкнуться туда, куда смотрите
+RMB	ПКМ
+Hang closer / farther, turn knobs, turn the manual's pages	Ближе / дальше, крутить ручки, листать руководство
+WHEEL	КОЛЕСО
+Menu	Меню
+Fullscreen	Во весь экран
+Readout	Показания
+Fixed: these cannot be rebound.	Эти клавиши не переназначаются.
+GAMEPAD	ГЕЙМПАД
+RIGHT STICK	ПРАВЫЙ СТИК
+Grab / use	Схватить / использовать
+Throw / push off	Бросить / оттолкнуться
+Helmet lamp	Фонарь шлема
+Use what you hold	Использовать предмет в руке
+Xbox layout.	Раскладка Xbox.
+RENDERING	ОТРИСОВКА
+Quality	Качество
+Ultra: global illumination, volumetric light and reflections. High: shadows, haze and bounce light. Medium: shadows. Low: plain lighting, for weak machines.	Ультра: глобальное освещение, объёмный свет и отражения. Высокое: тени, дымка и отражённый свет. Среднее: тени. Низкое: простое освещение для слабых компьютеров.
+Retro pixels	Ретро-пиксели
+PSX: crisp big pixels that still keep distant lettering readable. Chunky: bigger pixels, more grit. Off: a smooth modern picture.	PSX: чёткие крупные пиксели, но надписи вдали читаются. Грубые: ещё крупнее, больше зерна. Выкл: гладкая современная картинка.
+OFF  ·  SMOOTH	ВЫКЛ  ·  ГЛАДКО
+PSX	PSX
+CHUNKY	ГРУБЫЕ
+Render scale	Масштаб отрисовки
+Renders fewer pixels and upscales them with FSR 2. Only with retro pixels off.	Рисует меньше пикселей и увеличивает их через FSR 2. Только с выключенными ретро-пикселями.
+PICTURE	КАРТИНКА
+Brightness	Яркость
+Lifts or darkens the whole picture. The station is meant to be dim.	Осветляет или затемняет картинку. На станции задумано полутемно.
+Film grain and lens streaks	Зерно и блики объектива
+The fine grain over the picture and the streaks off bright lights.	Мелкое зерно поверх картинки и полосы от ярких огней.
+PERFORMANCE	ПРОИЗВОДИТЕЛЬНОСТЬ
+Frame rate limit	Ограничение кадров
+Caps the frames drawn each second. Lower keeps the computer cool and quiet; uncapped makes the graphics card run flat out. In the background the game always slows to a crawl.	Ограничивает число кадров в секунду. Ниже — компьютер холоднее и тише; без ограничения видеокарта работает на пределе. В фоне игра всегда почти замирает.
+NONE	НЕТ
+WINDOW	ОКНО
+Fill the screen (F11 switches too).	Во весь экран (переключает и F11).
+VSync	Вертикальная синхронизация
+Wait for the screen's refresh: no tearing, a little more input lag.	Ждать обновления экрана: без разрывов, но чуть больше задержка.
+VOLUME	ГРОМКОСТЬ
+Master	Общая
+Everything.	Всё.
+Effects	Эффекты
+The station, the suit and everything you touch. All the way down mutes them.	Станция, скафандр и всё, к чему прикасаетесь. В ноль — без звука.
+Music	Музыка
+The score.	Музыка.
+Habitation, low on the walls: the SCIENCE panel. LAB POWER on. Pick a target on the map.	Жилой отсек, внизу на стенах: панель НАУКА. ПИТАНИЕ ЛАБ. включить. Выберите цель на карте.
+GALLEY, MEDICINE, BED, SCIENCE, COMMS	КАМБУЗ, АПТЕЧКА, СПАЛЬНИК, НАУКА, СВЯЗЬ
+Other hand: stow what you hold / take it back	Вторая рука: убрать предмет / взять обратно
+Other hand: %s	Во второй руке: %s
+Q  swap	Q  поменять
+Q  to the other hand	Q  во вторую руку
+Flashlight in hand, or the helmet lamp	Фонарик в руке или фонарь шлема
+No light in hand: the flashlight floats by the flight desk	В руке нет света: фонарик плавает у пульта управления
+Other hand / pocket: Q stows, Q again puts away, Q takes out	Вторая рука / карман: Q убрать в руку, ещё Q — в карман, Q — достать
+Q  put away	Q  убрать
+E  take	E  взять
+Pocket: %s	Карман: %s
+Q  take out	Q  достать
+DITHERED	ДИЗЕРИНГ
+Dithered: big pixels, eight shades a channel, a checkerboard dither between them. PSX: crisp big pixels that still keep distant lettering readable. Chunky: bigger pixels, more grit. Off: a smooth modern picture.	Дизеринг: крупные пиксели, восемь оттенков на канал и шахматный узор между ними. PSX: чёткие крупные пиксели, но надписи вдали читаются. Грубые: ещё крупнее, больше зерна. Выкл: гладкая современная картинка.

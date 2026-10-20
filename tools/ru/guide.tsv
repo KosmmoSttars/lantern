@@ -1,0 +1,24 @@
+# The flight checklist on the nav screen, CONTACTS beside the map, and breaches that bite.
+Impact! Hull breach in %s: the station is losing its warmth	Удар! Пробоина: %s. Станция теряет тепло
+The hit shorted %s: its breaker will not stay in until the hole is patched	Удар закоротил %s: автомат не удержится включённым, пока дыра не заделана
+The map shows the distance, the flight time and the D-He3 the trip takes. The nav screen under it ticks off the torch's steps as you go.	Карта показывает расстояние, время полёта и сколько уйдёт D-He3. Навигационный экран под ней отмечает шаги факела по ходу дела.
+Seen full size, the map has CONTACTS beside it: the derelicts and modules here, nearest first. Click one to pick it.	Во весь экран рядом с картой список КОНТАКТЫ: обломки и модули этой системы, ближайшие сверху. Щёлкните строку, чтобы выбрать цель.
+Until it is patched the station grows cold (CABIN TEMP; cold harms you in the end).	Пока дыра не заделана, станция остывает (ТЕМП. КАБИНЫ; холод в конце концов вредит).
+The hit may have shorted the gear beside it: that breaker will not stay in until the hole is patched.	Удар мог закоротить оборудование рядом: его автомат не удержится включённым, пока дыра не заделана.
+NONE IN THIS SYSTEM	В ЭТОЙ СИСТЕМЕ НЕТ
+CONTACTS	КОНТАКТЫ
+FLYING TO %s	ЛЕТИМ К: %s
+ON ARRIVAL: THROTTLE DOWN, CUT OFF,	ПО ПРИБЫТИИ: ТЯГУ ВНИЗ, ОТСЕЧКА,
+NOZZLE FIELD OFF, TORCH ARM SAFE	ПОЛЕ СОПЛА ВЫКЛ, ВЗВОД ФАКЕЛА ОТКЛ
+IN ORBIT ROUND %s	НА ОРБИТЕ: %s
+TORCH: THROTTLE DOWN, CUT OFF, SAFE	ФАКЕЛ: ТЯГУ ВНИЗ, ОТСЕЧКА, ОТКЛ
+PICK WHERE TO GO ON THE MAP	ВЫБЕРИТЕ ЦЕЛЬ НА КАРТЕ
+TO %s  %s	К: %s  %s
+D-HE3 %d kg  NEEDS %d kg	D-HE3 %d кг  НУЖНО %d кг
+SHORT: BUY D-HE3 (COMMS AND SUPPLY)	МАЛО: КУПИТЕ D-HE3 (СВЯЗЬ И СНАБЖЕНИЕ)
+D-HE3 %d kg  NEEDS %d kg  OK	D-HE3 %d кг  НУЖНО %d кг  ХВАТАЕТ
+%s 1 TORCH ARM (FUSION TORCH PANEL)	%s 1 ВЗВОД ФАКЕЛА (ПАНЕЛЬ ФАКЕЛА)
+%s 2 NOZZLE FIELD ON  %d%%	%s 2 ПОЛЕ СОПЛА ВКЛ  %d%%
+%s 3 IGNITE	%s 3 ЗАЖЕЧЬ
+%s 4 THROTTLE FULL	%s 4 ТЯГА НА ПОЛНУЮ
+%s 5 ENGAGE (THIS PANEL)	%s 5 ПУСК (ЭТА ПАНЕЛЬ)

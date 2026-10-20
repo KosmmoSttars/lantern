@@ -1,0 +1,247 @@
+REACTOR	РЕАКТОР
+MODE	РЕЖИМ
+REACTOR MODE	РЕЖИМ РЕАКТОРА
+POWER	ЭНЕРГ
+PROP	ТЯГА
+RODS	СТЕРЖНИ
+ROD DEMAND	ЗАДАНИЕ СТЕРЖН.
+ROD CONTROL	УПР. СТЕРЖНЯМИ
+MAN	РУЧН
+AUTO	АВТО
+TEMP SET	УСТАВКА T
+FLOW INTERLOCK	БЛОК. РАСХОДА
+BYPASS	ОБХОД
+NORM	НОРМ
+SCRAM	АЗ
+SCRAM RESET	СБРОС АЗ
+ROD POS	ПОЛОЖ. СТЕРЖН.
+SET K	УСТ. K
+ROD %	СТЕРЖНИ %
+CORE	АКТИВНАЯ ЗОНА
+CORE TEMP	T ЗОНЫ
+FISSION POWER	МОЩН. ДЕЛЕНИЯ
+THERMAL kW	ТЕПЛО кВт
+LOOP PUMP	НАСОС КОНТУРА
+LOOP TEMP	T КОНТУРА
+TURBINE	ТУРБИНА
+TRIP	ОТКЛ
+RUN	РАБОТА
+GENERATOR	ГЕНЕРАТОР
+kW	кВт
+GEN kW	ГЕН кВт
+DAMAGE %	ПОВРЕЖД. %
+ELECTRICAL POWER	ЭЛЕКТРОПИТАНИЕ
+BUS A	ШИНА A
+BUS B	ШИНА B
+GENERATOR > A	ГЕНЕРАТОР > A
+CLOSE	ВКЛ
+BATTERY > A	БАТАРЕЯ > A
+BUS A V	ШИНА A В
+LOAD A	НАГР. A
+SOLAR > B	СОЛН. > B
+BATTERY > B	БАТАРЕЯ > B
+BUS B V	ШИНА B В
+LOAD B	НАГР. B
+BUS TIE	СВЯЗЬ ШИН
+CABIN LIGHTS	СВЕТ
+BATTERY	БАТАРЕЯ
+CHARGE	ЗАРЯД
+BATT kWh	БАТ кВт·ч
+BATT kW	БАТ кВт
+SOLAR ARRAYS	СОЛНЕЧНЫЕ БАТАРЕИ
+ARRAYS	ПАНЕЛИ
+STOW	СЛОЖ
+DEPLOY	РАСКР
+DEPLOYED	РАСКРЫТЫ
+ARRAY OUT	ВЫХОД ПАНЕЛЕЙ
+CIRCUIT BREAKERS  BUS A	АВТОМАТЫ  ШИНА A
+CIRCUIT BREAKERS  BUS B	АВТОМАТЫ  ШИНА B
+THERMAL CONTROL	ТЕРМОРЕГУЛИРОВАНИЕ
+RADIATORS	РАДИАТОРЫ
+REJECT kW	СБРОС кВт
+CABIN	КАБИНА
+CABIN SET	УСТАВКА КАБ.
+HEATERS	НАГРЕВ
+CABIN C	КАБ °C
+SET C	УСТ °C
+FLIGHT	ПОЛЁТ
+MASTER WARN	ОБЩ. АВАРИЯ
+MASTER CAUT	ОБЩ. ВНИМАН.
+ENGAGE	ПУСК
+BREAK OFF	ПРЕРВАТЬ
+MAIN ENGINE	МАРШЕВЫЙ ДВИГАТЕЛЬ
+FEED	ПОДАЧА
+H2 CRYOCOOLER	КРИОКУЛЕР H2
+HE PRESS	НАДДУВ HE
+H2 FEED	ПОДАЧА H2
+TANK PRESS	ДАВЛ. БАКА
+H2 kg	H2 кг
+COOLDOWN BYPASS	ПРОДУВКА
+BYPASS kg/s	ПРОДУВКА кг/с
+ENGINE	ДВИГАТЕЛЬ
+ENGINE ARM	ВЗВОД ДВИГ.
+TURBO START	ЗАПУСК ТНА
+THRUST	ТЯГА
+kN	кН
+EXHAUST	ИСТЕЧЕНИЕ
+FLOW kg/s	РАСХОД кг/с
+ACCEL m/s2	УСКОР. м/с²
+CORE K	ЗОНА K
+THROTTLE	РУД
+GUIDANCE  NAVIGATION  CONTROL	НАВИГАЦИЯ  НАВЕДЕНИЕ  УПРАВЛЕНИЕ
+COMPUTER	ВЫЧИСЛИТЕЛЬ
+NAV COMPUTER	НАВ. ВЫЧИСЛ.
+STAR TRACKER	ЗВЁЗДН. ДАТЧИК
+ATTITUDE	ОРИЕНТАЦИЯ
+TGT PREV	ЦЕЛЬ ‹
+TGT NEXT	ЦЕЛЬ ›
+TARGET No	ЦЕЛЬ №
+PROGRAM	ПРОГРАММА
+ATT ERR deg	ОШ. ОРИЕНТ. °
+GYROS	ГИРОДИНЫ
+DESAT	РАЗГРУЗКА
+MOMENTUM	КИН. МОМЕНТ
+RCS	РСУ
+RCS MODE	РЕЖИМ РСУ
+ATT	ОРИЕНТ
+ATT+TRN	ОРИЕНТ+ТРАНСЛ
+RCS HEATERS	ОБОГРЕВ РСУ
+PROP TEMP	T ТОПЛИВА
+N2H4 kg	N2H4 кг
+RCS FIRING	РСУ РАБОТАЕТ
+FUSION TORCH	ТЕРМОЯДЕРНЫЙ ФАКЕЛ
+IGNITION	ЗАЖИГАНИЕ
+TORCH ARM	ВЗВОД ФАКЕЛА
+NOZZLE FIELD	ПОЛЕ СОПЛА
+FIELD	ПОЛЕ
+IGNITE	ЗАЖЕЧЬ
+CUT OFF	ОТСЕЧКА
+FIELD kW	ПОЛЕ кВт
+D-HE3 kg	D-HE3 кг
+FLOW g/s	РАСХОД г/с
+DAYS FULL	СУТОК НА ПОЛН.
+TORCH THROTTLE	ТЯГА ФАКЕЛА
+DV COUNTER	СЧЁТЧИК ΔV
+LOAD DV	ЗАДАТЬ ΔV
+REL V TGT	СКОР. ОТН. ЦЕЛИ
+STAR NAVIGATION	ЗВЁЗДНАЯ НАВИГАЦИЯ
+PULSAR TIMING	ПУЛЬСАРНАЯ ПРИВЯЗКА
+PULSAR FIX	ПРИВЯЗКА
+PULSAR IN SKY	ПУЛЬСАР ВИДЕН
+START TIMING	НАЧАТЬ ПРИВЯЗКУ
+TIMING %	ПРИВЯЗКА %
+TIMING	ПРИВЯЗКА
+POSITION	ПОЛОЖЕНИЕ
+LY FROM SOL	СВ.Л. ОТ СОЛНЦА
+STARS SEEN	ЗВЁЗД ВИДНО
+RANGE LY	ДАЛЬН. СВ.Л.
+ANY	ЛЮБАЯ
+HERE  %s	ЗДЕСЬ  %s
+%.2f LY FROM SOL	%.2f СВ.Л. ОТ СОЛНЦА
+RELAY %s	РЕТРАНСЛЯТОР %s
+IN CONTACT	НА СВЯЗИ
+DEST  %s	ЦЕЛЬ  %s
+UNCHARTED	НЕ НАНЕСЕНА
+RADIO SOURCE	РАДИОИСТОЧНИК
+UNKNOWN	НЕИЗВЕСТНО
+%.2f LY	%.2f СВ.Л.
+~%d LY	~%d СВ.Л.
+TIME  %s	ВРЕМЯ  %s
+FUEL  %d kg	ТОПЛИВО  %d кг
+ROUTE PLOTTED	МАРШРУТ ПРОЛОЖЕН
+ZOOM THE MAP OUT TO THE STARS	ОТДАЛИТЕ КАРТУ ДО ЗВЁЗД,
+TO PICK A STAR	ЧТОБЫ ВЫБРАТЬ ЗВЕЗДУ
+BETWEEN THE STARS	МЕЖДУ ЗВЁЗДАМИ
+LIFE SUPPORT	ЖИЗНЕОБЕСПЕЧЕНИЕ
+OXYGEN	КИСЛОРОД
+O2 GENERATOR	ГЕНЕРАТОР O2
+O2 RATE	ПОДАЧА O2
+O2 REPRESS	НАДДУВ O2
+PPO2 kPa	PPO2 кПа
+SCRUBBER	ПОГЛОТИТЕЛЬ
+PPCO2 kPa	PPCO2 кПа
+PRESSURE	ДАВЛЕНИЕ
+N2 REPRESS	НАДДУВ N2
+TOTAL kPa	ВСЕГО кПа
+RECYCLER	РЕГЕНЕРАЦИЯ
+WATER kg	ВОДА кг
+STORES	ЗАПАСЫ
+---- km	---- км
+%11.3f AU	%11.3f а.е.
+%11s km	%11s км
+NAV  INITIALISING	НАВ  ИНИЦИАЛИЗАЦИЯ
+NAV        MET %s	НАВ        ПВ %s
+%-9s ALT%s	%-9s ВЫС%s
+SPD %10.1f m/s  INC %4.1f	СКР %10.1f м/с  НАКЛ %4.1f
+PE %s  %s	ПЕ %s  %s
+AP %s  %s	АП %s  %s
+ESCAPE	УХОД
+ECC %.4f PER %s	ЭКСЦ %.4f ПЕР %s
+ATT %-9s ERR %5.1f %s	ОРИ %-9s ОШ %5.1f %s
+TGT %-9s%s	ЦЕЛЬ %-9s%s
+REL V %10.1f m/s	ОТН V %10.1f м/с
+PRG 	ПРГ
+CLOSING %9.1f m/s	СБЛИЖ %9.1f м/с
+STOP IN %s	СТОП ЧЕРЕЗ %s
+HOLD AT %s	ДЕРЖАТЬ НА %s
+TURN IN %s %s	РАЗВОРОТ ЧЕРЕЗ %s %s
+BRAKE!	ТОРМОЗИ!
+DV %5d m/s %s	ΔV %5d м/с %s
+BURN IN %s	ИМПУЛЬС ЧЕРЕЗ %s
+PRG OFF	ПРГ ВЫКЛ
+TRANSIT  ARRIVE %s	ПЕРЕЛЁТ  ПРИБЫТИЕ %s
+%-6s %.3f mSv/h	%-6s %.3f мЗв/ч
+SHADOW	ТЕНЬ
+PROPULSION	ТЯГА
+REACTOR  %s%s	РЕАКТОР  %s%s
+RODS %5.1f%%  DEM %5.1f%%  %s	СТЕРЖНИ %5.1f%%  ЗАД %5.1f%%  %s
+POWER %6.2f%%  Q %8.0f kW	МОЩН %6.2f%%  Q %8.0f кВт
+CORE %5d K  SET %5d K	ЗОНА %5d K  УСТ %5d K
+LOOP %5d K  PUMP %3d%%	КОНТУР %5d K  НАСОС %3d%%
+H2 FLOW %5.2f kg/s	РАСХОД H2 %5.2f кг/с
+GEN %6.1f kW %s	ГЕН %6.1f кВт %s
+POWER DISTRIBUTION	РАСПРЕДЕЛЕНИЕ ПИТАНИЯ
+GEN %6.1f kW %s  SOLAR %5.1f kW %s	ГЕН %6.1f кВт %s  СОЛН %5.1f кВт %s
+BUS A %5.1f V %6.1f kW   BUS B %5.1f V %6.1f kW	ШИНА A %5.1f В %6.1f кВт   ШИНА B %5.1f В %6.1f кВт
+TIE %s   BATT %6.1f kWh %+6.1f kW	СВЯЗЬ %s   БАТ %6.1f кВт·ч %+6.1f кВт
+CLOSED	ЗАМКН
+OPEN	ОТКР
+ATMOSPHERE	АТМОСФЕРА
+CO2 %5.2f	CO2 %5.2f
+TOT %5.1f	ВСЕГО %5.1f
+CABIN %4.1f C	КАБИНА %4.1f °C
+LEAK %s	УТЕЧКА %s
+YES	ДА
+NO	НЕТ
+ON	ВКЛ
+OFF	ВЫКЛ
+IN	ВКЛ
+OUT	ВЫКЛ
+LIT	ГОРИТ
+SHUT	ЗАКР
+SAFE	ОТКЛ
+ARM	ВЗВОД
+ARMED	ВЗВЕДЕНО
+Lift the cover	Поднять крышку
+Switch 	Переключить
+Press	Нажать
+Pull out	Вытянуть
+Push in	Вдавить
+Pull to idle	На холостой
+OPEN %s	ОТКР %s
+%d %% open	открыто на %d %%
+Open	Открыть
+Close	Закрыть
+Turn	Повернуть
+Turn to close	Повернуть, чтобы закрыть
+Turn to open	Повернуть, чтобы открыть
+Equalize pressure	Выровнять давление
+Turn the handwheel	Поверните штурвал
+Pressure is equal on both sides	Давление с обеих сторон равно
+Pressure differs: equalise first	Давление разное: сначала выровняйте
+Use	Использовать
+Needs:	Нужно:
+Hold LMB	Удерживайте ЛКМ
+LMB	ЛКМ
+Wheel  turn	Колесо  крутить
+PWR	МОЩН

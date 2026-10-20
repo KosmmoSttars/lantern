@@ -1,0 +1,180 @@
+WAKING THE STATION	КАК ОЖИВИТЬ СТАНЦИЮ
+Engineering, REACTOR panel: REACTOR MODE to POWER, ROD CONTROL to AUTO, LOOP PUMP a quarter up, TURBINE to RUN.	Техотсек, панель РЕАКТОР: РЕЖИМ РЕАКТОРА в ЭНЕРГ, УПР. СТЕРЖНЯМИ в АВТО, НАСОС КОНТУРА на четверть, ТУРБИНА в РАБОТА.
+ELECTRICAL POWER: GENERATOR > A, BATTERY > A, SOLAR > B and BATTERY > B all to CLOSE. CABIN LIGHTS on.	ЭЛЕКТРОПИТАНИЕ: ГЕНЕРАТОР > A, БАТАРЕЯ > A, СОЛН. > B и БАТАРЕЯ > B — все в ВКЛ. СВЕТ включить.
+Both CIRCUIT BREAKERS panels: push in every breaker that has popped out.	Обе панели АВТОМАТЫ: вдавите каждый выскочивший автомат.
+THERMAL CONTROL: RADIATORS to DEPLOY, CABIN LOOP on; HEATERS on if the cabin is cold.	ТЕРМОРЕГУЛИРОВАНИЕ: РАДИАТОРЫ в РАСКР, контур кабины включить; НАГРЕВ — если в кабине холодно.
+Life support module, LIFE SUPPORT panel: SCRUBBER, CABIN FANS, O2 GENERATOR and RECYCLER on; O2 and N2 REPRESS to AUTO.	Модуль жизнеобеспечения, панель ЖИЗНЕОБЕСПЕЧЕНИЕ: ПОГЛОТИТЕЛЬ, вентиляция, ГЕНЕРАТОР O2 и РЕГЕНЕРАЦИЯ — включить; НАДДУВ O2 и N2 в АВТО.
+ELECTRICAL POWER: ARRAYS to DEPLOY. The wings turn to the Sun by themselves.	ЭЛЕКТРОПИТАНИЕ: ПАНЕЛИ в РАСКР. Крылья сами повернутся к Солнцу.
+Command deck, GNC panel: NAV COMPUTER, STAR TRACKER and CMG on, RCS HEATERS on, RCS MODE to ATT.	Рубка, панель НАВИГАЦИИ: НАВ. ВЫЧИСЛ., ЗВЁЗДН. ДАТЧИК и ГИРОДИНЫ включить, ОБОГРЕВ РСУ включить, РЕЖИМ РСУ в ОРИЕНТ.
+Flight panel (in the command deck floor): MASTER WARN and MASTER CAUT should be dark. If one is lit, its panel shows why.	Панель ПОЛЁТ (в полу рубки): ОБЩ. АВАРИЯ и ОБЩ. ВНИМАН. должны быть погашены. Если горит — причину покажет своя панель.
+MAP TRANSIT  (planets, moons)	ПЕРЕЛЁТ ПО КАРТЕ  (планеты, луны)
+Flight panel map: touch a body to pick it; the wheel zooms.	Карта на панели ПОЛЁТ: коснитесь тела, чтобы выбрать; колесо — масштаб.
+FUSION TORCH panel: lift the cover, TORCH ARM. NOZZLE FIELD on, wait for the field to fill.	Панель ТЕРМОЯДЕРНЫЙ ФАКЕЛ: поднимите крышку, ВЗВОД ФАКЕЛА. ПОЛЕ СОПЛА включить, дождаться поля.
+IGNITE, then TORCH THROTTLE to full.	ЗАЖЕЧЬ, затем ТЯГА ФАКЕЛА на полную.
+Flight panel: ENGAGE. The station turns, burns and brakes into orbit round what you picked.	Панель ПОЛЁТ: ПУСК. Станция развернётся, разгонится и затормозит на орбиту выбранного тела.
+To stop on the way: throttle down, or BREAK OFF.	Остановиться в пути: убрать тягу или ПРЕРВАТЬ.
+TO THE STARS	К ЗВЁЗДАМ
+Wheel the map out past the edge of the system: the star map.	Отдалите карту колесом за край системы — откроется звёздная карта.
+Only the systems you have been to are charted. The rest is dark.	Нанесены только системы, где вы были. Остальное — тьма.
+The nearest pulsar shows through the dark as RADIO PULSES.	Ближайший пульсар виден во тьме как РАДИОИМПУЛЬСЫ.
+Touch a charted star, or anywhere in the dark: the computer plots a course for the star nearest that point. What it is, you find out when you get there.	Коснитесь нанесённой звезды или любой точки во тьме: вычислитель проложит курс к ближайшей звезде. Что это за звезда, узнаете на месте.
+Light the torch as for a map transit, then ENGAGE. A crossing takes twenty to forty minutes.	Зажгите факел, как для перелёта по карте, затем ПУСК. Переход занимает двадцать–сорок минут.
+Past 10 light years you need a pulsar timing fix: STAR NAVIGATION panel, in a pulsar system.	Дальше 10 световых лет нужна пульсарная привязка: панель ЗВЁЗДНАЯ НАВИГАЦИЯ, в системе с пульсаром.
+MAIN ENGINE BURN	ИМПУЛЬС МАРШЕВЫМ ДВИГАТЕЛЕМ
+Stow the radiators and the arrays first.	Сначала сложите радиаторы и солнечные панели.
+REACTOR: ROD DEMAND to 0, wait for the power to fall, REACTOR MODE to PROP.	РЕАКТОР: ЗАДАНИЕ СТЕРЖН. в 0, дождаться спада мощности, РЕЖИМ РЕАКТОРА в ТЯГА.
+MAIN ENGINE: HE PRESS on, ENGINE ARM, H2 FEED open, TURBO START.	МАРШЕВЫЙ ДВИГАТЕЛЬ: НАДДУВ HE включить, ВЗВОД ДВИГ., ПОДАЧА H2 открыть, ЗАПУСК ТНА.
+Throttle up slowly; ROD CONTROL to AUTO.	РУД вперёд плавно; УПР. СТЕРЖНЯМИ в АВТО.
+After the burn: COOLDOWN BYPASS open before the throttle comes down.	После импульса: открыть ПРОДУВКУ до того, как убрать РУД.
+AIRLOCK OUT	ВЫХОД ЧЕРЕЗ ШЛЮЗ
+Close the inner hatch (hold LMB on its handwheel).	Закройте внутренний люк (удерживайте ЛКМ на штурвале).
+AIRLOCK panel: PUMP to DEPRESS, wait for VACUUM.	Панель ШЛЮЗ: НАСОС в ОТКАЧКА, ждать ВАКУУМ.
+Turn the outer hatch wheel. It has no interlock: never open it with air in the airlock.	Поверните штурвал внешнего люка. Блокировки нет: никогда не открывайте его, если в шлюзе воздух.
+Outside: pull yourself along the hull or the hose itself. Hold R to haul yourself back.	Снаружи: подтягивайтесь по корпусу или по самому шлангу. Удерживайте R, чтобы подтянуться обратно.
+AIRLOCK IN	ВОЗВРАЩЕНИЕ ЧЕРЕЗ ШЛЮЗ
+Close the outer hatch.	Закройте внешний люк.
+PUMP to REPRESS until EQUAL lights.	НАСОС в НАДДУВ, пока не загорится РАВНО.
+Open the inner hatch.	Откройте внутренний люк.
+HULL BREACH	ПРОБОИНА
+Listen for the hiss and find the hole.	Найдите дыру по шипению.
+Hold LMB on it with patch kits aboard.	Удерживайте на ней ЛКМ, если есть ремкомплекты.
+If the air is going fast: O2 and N2 REPRESS to AUTO (LIFE SUPPORT panel) to keep the pressure up.	Если воздух уходит быстро: НАДДУВ O2 и N2 в АВТО (панель ЖИЗНЕОБЕСПЕЧЕНИЕ), чтобы держать давление.
+With both airlock hatches open the station empties: shut the outer one.	Если оба люка шлюза открыты, станция пустеет: закройте внешний.
+SCIENCE AND SUPPLIES	НАУКА И СНАБЖЕНИЕ
+Laboratory (port, off the Node): LAB POWER on. Pick a target on the map.	Лаборатория (слева от узла): ПИТАНИЕ ЛАБ. включить. Выберите цель на карте.
+Spectrometer: get close. Magnetometer: orbit it, boom out. Telescope: ATTITUDE to TARGET.	Спектрометр: подойдите близко. Магнитометр: выйдите на орбиту, штанга наружу. Телескоп: ОРИЕНТАЦИЯ на ЦЕЛЬ.
+COMMS AND SUPPLY: DISH on, UPLINK to SEND. A relay must be in range.	СВЯЗЬ И СНАБЖЕНИЕ: АНТЕННА включить, ПЕРЕДАЧА в ПЕРЕДАТЬ. Нужен ретранслятор в зоне.
+Spend the credit on the same panel. A drone brings the order.	Тратьте кредит на той же панели. Заказ привезёт дрон.
+When the drone is alongside, open the CARGO PORT on the same panel. It docks at the airlock and leaves the crate inside: hold LMB on it to unpack.	Когда дрон рядом, откройте ГРУЗОВОЙ ПОРТ на той же панели. Он пристыкуется к шлюзу и оставит ящик внутри: удерживайте на нём ЛКМ, чтобы распаковать.
+SALVAGE	ТРОФЕИ
+Derelicts drift round some planets and moons: the small squares on the map. Touch one and fly to it like any body; the station stops some seventy metres off it.	У некоторых планет и лун дрейфуют обломки — маленькие квадраты на карте. Выберите и летите к нему, как к любому телу; станция остановится метрах в семидесяти.
+THE REACTOR	РЕАКТОР
+The reactor has a manual of its own: the yellow book in the reactor module, aft of Life support.	У реактора своё руководство: жёлтая книга в реакторном модуле, за жизнеобеспечением.
+Start-up, running, refuelling, the loop, the alarms, and what blows a reactor up are all in it. Read it before you touch the rods.	Пуск, работа, перегрузка топлива, контур, сигналы и то, отчего реактор взрывается, — всё там. Прочтите, прежде чем трогать стержни.
+A Geiger counter waits by the reactor hatch. Take it with you.	У люка реактора лежит счётчик Гейгера. Возьмите его с собой.
+MODULE SEPARATION	ОТДЕЛЕНИЕ МОДУЛЕЙ
+Overhead in the command deck. MODULE picks one; lift the cover, ARM; lift the cover, SEPARATE.	На потолке рубки. МОДУЛЬ — выбрать; поднять крышку, ВЗВОД; поднять крышку, ОТДЕЛИТЬ.
+It goes, and all that hangs beyond it: the screen lists what. A blast seal shuts the hatchway left open.	Уходит он и всё, что за ним: экран покажет что. Открывшийся проход закроет аварийная заглушка.
+Never with you inside what goes. What was in it, stores and all, is gone for good.	Никогда — пока вы внутри. Всё, что было внутри, и запасы тоже, пропадает навсегда.
+STAYING ALIVE	КАК ВЫЖИТЬ
+Habitation: eat and drink at the galley, pills and dressings at the medical locker.	Жилой отсек: есть и пить — на камбузе, таблетки и перевязка — в аптечке.
+Sleep in the bag when you are tired: the hours go by fast; an alarm wakes you.	Устали — спите в спальнике: часы пролетают быстро, тревога разбудит.
+Solar flare warning: get to the Life support module and stay there until it passes.	Предупреждение о вспышке: в модуль жизнеобеспечения и не выходить, пока не пройдёт.
+THE CAMERA	ФОТОАППАРАТ
+The instant camera floats in Habitation. Catch it, aim, press E.	Моментальная камера плавает в жилом отсеке. Поймайте, наведите, нажмите E.
+Out comes a print. Catch it, carry it to the board in Habitation and let go of it there: it pins up.	Вылезет снимок. Поймайте его, отнесите к доске в жилом отсеке и отпустите там — он приколется.
+A pack holds ten shots. More film comes from the supply catalogue.	В кассете десять кадров. Ещё плёнка — в каталоге снабжения.
+THE PLANT	УСТАНОВКА
+One fission core makes the station's electricity (POWER mode) and drives the main engine (PROP mode).	Одна активная зона даёт станции электричество (режим ЭНЕРГ) и работает на маршевый двигатель (режим ТЯГА).
+Engineering, REACTOR panel: the mode, the rods, the core and the turbine. The reactor module aft of Life support: the core itself behind its shield, the CORE and LOOP PRESSURE panels, the pumps, the fuel rack, the recycler.	Техотсек, панель РЕАКТОР: режим, стержни, зона и турбина. Реакторный модуль за жизнеобеспечением: сама зона за защитой, панели АКТИВНАЯ ЗОНА и ДАВЛЕНИЕ КОНТУРА, насосы, стеллаж ТВС, переработчик.
+The core holds three fuel assemblies. A load lasts about an hour of running.	В зоне три ТВС. Загрузки хватает примерно на час работы.
+Everything here can kill you, and most of it the station too. Go slowly.	Здесь всё может вас убить, а многое — и станцию. Не спешите.
+START-UP	ПУСК
+REACTOR MODE to POWER. ROD DEMAND to 0, then SCRAM RESET.	РЕЖИМ РЕАКТОРА в ЭНЕРГ. ЗАДАНИЕ СТЕРЖН. в 0, затем СБРОС АЗ.
+LOOP PUMP a quarter up. FLOW INTERLOCK to NORM. RELIEF (reactor module, LOOP PRESSURE) on AUTO.	НАСОС КОНТУРА на четверть. БЛОК. РАСХОДА в НОРМ. СБРОСНОЙ КЛАПАН (реакторный модуль, ДАВЛЕНИЕ КОНТУРА) в АВТО.
+ROD CONTROL to AUTO: the rods come out by themselves and hold the core at TEMP SET.	УПР. СТЕРЖНЯМИ в АВТО: стержни выйдут сами и удержат зону на УСТАВКЕ T.
+TURBINE to RUN once the core is above 800 K. ELECTRICAL POWER: GENERATOR to its bus.	ТУРБИНА в РАБОТА, когда зона выше 800 K. ЭЛЕКТРОПИТАНИЕ: ГЕНЕРАТОР на шину.
+Never draw the rods out by hand on a cold core: see WHAT BLOWS IT UP.	Никогда не выдвигайте стержни вручную на холодной зоне: см. ОТЧЕГО ОН ВЗРЫВАЕТСЯ.
+RUNNING	РАБОТА
+AUTO holds the temperature as the fuel burns down. FUEL LOW: refuel within minutes.	АВТО держит температуру, пока топливо выгорает. МАЛО ТОПЛИВА: перегрузите в ближайшие минуты.
+Keep an eye on PUMP WEAR (CORE panel): service a pump before it reaches 80 %. Hold LMB on it.	Следите за ИЗНОСОМ НАСОСОВ (панель АКТИВНАЯ ЗОНА): обслужите насос до 80 %. Удерживайте на нём ЛКМ.
+Coolant under 60 %: COOLANT LOW. Find the leak, seal it, then FILL.	Теплоносителя меньше 60 %: МАЛО ТЕПЛОНОС. Найдите утечку, заделайте, затем ДОЛИВ.
+Do not stand in the reactor module longer than you need to. The dose there is on the CORE panel.	Не стойте в реакторном модуле дольше нужного. Доза там — на панели АКТИВНАЯ ЗОНА.
+SHUTDOWN AND COOLDOWN	ОСТАНОВ И РАСХОЛАЖИВАНИЕ
+SCRAM drops the rods at once. The power is gone in seconds, the heat is not.	АЗ сразу роняет стержни. Мощность уходит за секунды, тепло — нет.
+Leave the LOOP PUMP running: the core's own decay heat must still be carried off.	Не выключайте НАСОС КОНТУРА: остаточное тепло зоны всё ещё надо отводить.
+The core head may be opened below 650 K. That takes a few minutes.	Крышку зоны можно открыть ниже 650 K. Это несколько минут.
+To restart: ROD DEMAND to 0, SCRAM RESET, ROD CONTROL to AUTO.	Перезапуск: ЗАДАНИЕ СТЕРЖН. в 0, СБРОС АЗ, УПР. СТЕРЖНЯМИ в АВТО.
+REFUELLING	ПЕРЕГРУЗКА ТОПЛИВА
+SCRAM. Wait for the core to cool below 650 K.	АЗ. Дождитесь, пока зона остынет ниже 650 K.
+Reactor module: hold LMB on the core head to unseal it. The room is hot while it is open: be quick.	Реакторный модуль: удерживайте ЛКМ на крышке зоны, чтобы открыть. Пока она открыта, фон сильный: быстрее.
+Hold LMB on a slot to pull its assembly. It is hot: carry it straight to the recycler's hopper and let go there.	Удерживайте ЛКМ на ячейке, чтобы вынуть ТВС. Она горячая: сразу несите к приёмнику переработчика и отпустите там.
+Take a fresh one from the rack (right wall), let go of it over the empty slot. All three.	Возьмите свежую со стеллажа (правая стена) и отпустите над пустой ячейкой. Все три.
+Seal the head, then restart. More fuel: the supply catalogue, fuel depots, or the recycler.	Закройте крышку и перезапустите. Ещё топливо — каталог снабжения, топливные склады или переработчик.
+THE LOOP	КОНТУР
+The primary loop carries the core's heat to the turbine. Its pressure is on the LOOP PRESSURE panel: about 1 MPa running.	Первый контур несёт тепло зоны к турбине. Его давление — на панели ДАВЛЕНИЕ КОНТУРА: при работе около 1 МПа.
+Pumps stopped on a hot core: the coolant boils and the pressure climbs. RELIEF on AUTO vents it above 3.2 MPa, and some coolant with it.	Насосы встали на горячей зоне: теплоноситель кипит, давление растёт. СБРОСНОЙ КЛАПАН в АВТО стравливает выше 3,2 МПа, а с ним часть теплоносителя.
+A leak hisses from a line on the floor. Seal it with a patch kit, then FILL (CORE panel) until the loop is full.	Утечка шипит из трубы на полу. Заделайте ремкомплектом, затем ДОЛИВ (панель АКТИВНАЯ ЗОНА), пока контур не заполнится.
+A dry core must cool below 1000 K before you FILL it.	Сухая зона должна остыть ниже 1000 K до ДОЛИВА.
+ALARMS	СИГНАЛЫ
+RX OVERTEMP / CORE FLOW: the core is too hot or not cooled. Pumps, coolant, or SCRAM.	ПЕРЕГРЕВ РЕАКТ. / РАСХОД ЗОНЫ: зона перегрета или не охлаждается. Насосы, теплоноситель или АЗ.
+COOLANT LOW: a leak. LOOP PRESSURE: pumps stopped or a dry core being filled. Get flow back.	МАЛО ТЕПЛОНОС.: утечка. ДАВЛЕНИЕ КОНТУРА: встали насосы или доливают сухую зону. Верните расход.
+RX POWER HIGH: SCRAM now, not in a moment.	МОЩНОСТЬ ВЫСОКА: АЗ сейчас, а не через минуту.
+CORE MELT: the MELT IN clock runs. Get the core under the line and it stops. If not: CASTING IT OFF.	РАСПЛАВ ЗОНЫ: идёт отсчёт РАСПЛАВ ЧЕРЕЗ. Опустите зону ниже черты — отсчёт встанет. Если нет — СБРОС МОДУЛЯ.
+PUMP WEAR, FUEL LOW, SHIELD: service, refuel, patch.	ИЗНОС НАСОСОВ, МАЛО ТОПЛИВА, ЗАЩИТА: обслужить, перегрузить, заделать.
+WHAT BLOWS IT UP	ОТЧЕГО ОН ВЗРЫВАЕТСЯ
+Rods drawn out by hand (ROD CONTROL to MAN) all the way on a cold core: the power runs away in seconds.	Стержни выдвинуты вручную (УПР. СТЕРЖНЯМИ в РУЧН) до упора на холодной зоне: мощность разгоняется за секунды.
+The pumps stopped with the core making heat and RELIEF shut: the loop bursts at 4 MPa.	Насосы встали, зона греет, СБРОСНОЙ КЛАПАН закрыт: контур рвётся на 4 МПа.
+FILL opened on a dry core above 1000 K: the coolant flashes to steam.	ДОЛИВ на сухую зону выше 1000 K: теплоноситель мгновенно вскипает паром.
+The core head opened with its HEAD LOCK switch on FREE while the core is hot or pressurised.	Крышку открыли с ЗАМКОМ КРЫШКИ в СВОБОДНО на горячей или находящейся под давлением зоне.
+The blast tears the module off and holes Life support. Inside the module, nobody lives through it.	Взрыв отрывает модуль и пробивает жизнеобеспечение. Внутри модуля не выжить.
+PROPULSION MODE	РЕЖИМ ТЯГИ
+For main engine burns. Stow the radiators and the arrays first.	Для импульсов маршевым двигателем. Сначала сложите радиаторы и панели.
+ROD DEMAND to 0, wait for the power to fall, REACTOR MODE to PROP.	ЗАДАНИЕ СТЕРЖН. в 0, дождаться спада мощности, РЕЖИМ РЕАКТОРА в ТЯГА.
+The hydrogen is the coolant now: no flow, no cooling. After the burn, COOLDOWN BYPASS open before the throttle comes down.	Теперь теплоноситель — водород: нет расхода — нет охлаждения. После импульса открыть ПРОДУВКУ до того, как убрать РУД.
+A burn eats fuel too, though less than you would think.	Импульс тоже ест топливо, хоть и меньше, чем кажется.
+RADIATION	РАДИАЦИЯ
+Through the shield while it runs: a few mSv/h in the module. With the head open: hundreds.	Сквозь защиту при работе — несколько мЗв/ч в модуле. С открытой крышкой — сотни.
+A spent assembly in your arms is a source of its own. A cracked shield (it glows green) makes the whole room hot: patch it.	Отработанная ТВС в руках — сама источник. Треснувшая защита (светится зелёным) делает весь отсек горячим: заделайте.
+The Geiger counter clicks for the dose where it is. A crackle means leave.	Счётчик Гейгера щёлкает по дозе там, где он. Треск — уходите.
+Rad pills in the medical locker. The dose does not wash out.	Таблетки от радиации — в аптечке. Доза не выводится.
+THE RECYCLER	ПЕРЕРАБОТЧИК
+Reactor module, right wall. Let go of a spent assembly over its hopper (old prints go in too).	Реакторный модуль, правая стена. Отпустите отработанную ТВС над приёмником (старые снимки тоже годятся).
+OUTPUT picks what to make: oxygen, water, a patch kit, film, coolant, a fuel assembly. PROCESS makes it.	ВЫХОД выбирает, что сделать: кислород, воду, ремкомплект, плёнку, теплоноситель, ТВС. ПУСК делает.
+Two spent assemblies and enough material make a fresh one.	Из двух отработанных ТВС и материала получается свежая.
+CASTING IT OFF	СБРОС МОДУЛЯ
+When the core cannot be saved: get out of the module and shut the reactor hatch.	Если зону не спасти: выйдите из модуля и закройте люк реактора.
+Life support, by the hatch: lift the cover and press JETTISON. Or MODULE SEPARATION in the command deck.	Жизнеобеспечение, у люка: поднимите крышку и нажмите СБРОС. Или ОТДЕЛЕНИЕ МОДУЛЕЙ в рубке.
+The module goes for good: batteries and the solar arrays only from then on.	Модуль уходит навсегда: дальше только батареи и солнечные панели.
+FUSION TORCH 1/2: LIGHTING IT	ТЕРМОЯДЕРНЫЙ ФАКЕЛ 1/2: РОЗЖИГ
+Command deck, right-hand wall: the FUSION TORCH panel. D-HE3 must not be empty.	Рубка, правая стена: панель ТЕРМОЯДЕРНЫЙ ФАКЕЛ. Топливо D-HE3 не должно быть на нуле.
+The torch's field coils draw 50 kW: the reactor running, or charged batteries (ELECTRICAL POWER).	Катушки поля берут 50 кВт: нужен работающий реактор или заряженные батареи (ЭЛЕКТРОПИТАНИЕ).
+Lift the red cover. TORCH ARM to ARM.	Откиньте красную крышку. ВЗВОД ФАКЕЛА — в положение ВЗВОД.
+NOZZLE FIELD to ON. The FIELD bar fills in about 40 seconds.	ПОЛЕ СОПЛА — ВКЛ. Шкала ПОЛЕ заполняется примерно за 40 секунд.
+FIELD full: the green READY lamp lights.	Шкала полная — загорается зелёная лампа ГОТОВО.
+Press IGNITE. It stays lit green: the torch is burning, but gives no thrust until the throttle comes up.	Нажмите ЗАЖЕЧЬ. Кнопка горит зелёным: факел зажжён, но тяги нет, пока не поднят рычаг тяги.
+FUSION TORCH 2/2: FLYING	ТЕРМОЯДЕРНЫЙ ФАКЕЛ 2/2: ПОЛЁТ
+Flight desk, in the command deck floor: touch a planet or moon on the map. The wheel zooms, dragging turns the view.	Пульт ПОЛЁТ в полу рубки: коснитесь планеты или луны на карте. Колесо — масштаб, перетаскивание рукой — поворот вида.
+FUSION TORCH panel: TORCH THROTTLE lever all the way up.	Панель ТЕРМОЯДЕРНЫЙ ФАКЕЛ: рычаг ТЯГА ФАКЕЛА — до упора вверх.
+Flight desk: press ENGAGE. The station turns, burns and brakes into orbit by itself.	Пульт ПОЛЁТ: нажмите ПУСК. Станция сама развернётся, разгонится и затормозит на орбиту.
+ENGAGE stays dark? The map says why: TORCH NOT LIT, THROTTLE TO FULL, NOT ENOUGH D-HE3, UNDOCK FIRST.	ПУСК не горит? Карта пишет причину: ФАКЕЛ НЕ ЗАЖЖЁН, ТЯГУ НА ПОЛНУЮ, МАЛО D-HE3, СНАЧАЛА РАССТЫКОВКА.
+To stop on the way: BREAK OFF, or the throttle down.	Остановиться по пути: ПРЕРВАТЬ или рычаг тяги вниз.
+Arrived: throttle down, CUT OFF, NOZZLE FIELD to OFF, TORCH ARM to SAFE.	Прибыли: тягу вниз, ОТСЕЧКА, ПОЛЕ СОПЛА — ВЫКЛ, ВЗВОД ФАКЕЛА — ОТКЛ.
+Light the torch (FUSION TORCH pages), throttle up, then ENGAGE. A crossing takes twenty to forty minutes.	Зажгите факел (страницы ТЕРМОЯДЕРНЫЙ ФАКЕЛ), тягу на полную, затем ПУСК. Перелёт занимает от двадцати до сорока минут.
+NUCLEAR ENGINE 1/2: READYING	ЯДЕРНЫЙ ДВИГАТЕЛЬ 1/2: ПОДГОТОВКА
+The MAIN ENGINE pushes hydrogen through the reactor core. The reactor must be running first (reactor manual).	МАРШЕВЫЙ ДВИГАТЕЛЬ гонит водород через активную зону реактора. Сначала реактор должен работать (руководство по реактору).
+THERMAL CONTROL: RADIATORS to STOW. ELECTRICAL POWER: ARRAYS to STOW.	ТЕРМОРЕГУЛИРОВАНИЕ: РАДИАТОРЫ — СЛОЖ. ЭЛЕКТРОПИТАНИЕ: ПАНЕЛИ — СЛОЖ.
+Command deck, lower right wall: MAIN ENGINE panel. H2 CRYOCOOLER and HE PRESS to ON.	Рубка, нижняя правая стена: панель МАРШЕВЫЙ ДВИГАТЕЛЬ. КРИОКУЛЕР H2 и НАДДУВ HE — ВКЛ.
+Wait for TANK PRESS to reach about 250 kPa.	Дождитесь, пока ДАВЛ. БАКА дойдёт примерно до 250 кПа.
+Hold LMB on the H2 FEED valve until it is fully open.	Держите ЛКМ на вентиле ПОДАЧА H2, пока он не откроется полностью.
+Engineering, REACTOR panel: ROD CONTROL to MAN, ROD DEMAND to 0. Wait for FISSION POWER to read 0.	Техотсек, панель РЕАКТОР: УПР. СТЕРЖНЯМИ — РУЧН, ЗАДАНИЕ СТЕРЖН. — 0. Дождитесь, пока МОЩН. ДЕЛЕНИЯ упадёт до 0.
+REACTOR MODE to PROP. MODE INHIBIT goes out once the power is down.	РЕЖИМ РЕАКТОРА — ТЯГА. Лампа РЕЖИМ ЗАПРЕЩЁН гаснет, когда мощность упала.
+NUCLEAR ENGINE 2/2: THE BURN	ЯДЕРНЫЙ ДВИГАТЕЛЬ 2/2: ИМПУЛЬС
+Be quick: the core must still be hot, above 900 K (CORE K on the MAIN ENGINE panel).	Не медлите: зона должна быть ещё горячей, выше 900 K (ЗОНА K на панели МАРШЕВЫЙ ДВИГАТЕЛЬ).
+Lift the cover, ENGINE ARM to ARM. Press TURBO START: TURBOPUMP climbs for 18 seconds.	Откиньте крышку, ВЗВОД ДВИГ. — ВЗВОД. Нажмите ЗАПУСК ТНА: стрелка ТНА растёт 18 секунд.
+REACTOR panel: ROD CONTROL to AUTO.	Панель РЕАКТОР: УПР. СТЕРЖНЯМИ — АВТО.
+MAIN ENGINE: THROTTLE up slowly. Hydrogen flows, the rods come out, THRUST climbs.	МАРШЕВЫЙ ДВИГАТЕЛЬ: РУД плавно вверх. Водород пошёл, стержни выходят, ТЯГА растёт.
+To stop: COOLDOWN BYPASS to OPEN first, then THROTTLE down, ENGINE ARM to SAFE.	Остановка: сначала ПРОДУВКА — ОТКР, потом РУД вниз, ВЗВОД ДВИГ. — ОТКЛ.
+Back to power: ROD DEMAND to 0, wait for zero power, REACTOR MODE to POWER, then COOLDOWN BYPASS to SHUT.	Обратно на энергию: ЗАДАНИЕ СТЕРЖН. — 0, дождитесь нулевой мощности, РЕЖИМ РЕАКТОРА — ЭНЕРГ, затем ПРОДУВКА — ЗАКР.
+RADIATORS and ARRAYS to DEPLOY again.	РАДИАТОРЫ и ПАНЕЛИ снова — РАСКР.
+START-UP 1/2: CHECKS	ПУСК 1/2: ПРОВЕРКИ
+Engineering, right-hand wall: the REACTOR panel. Both CIRCUIT BREAKERS panels: ROD DRIVE and RX PUMP pushed in.	Техотсек, правая стена: панель РЕАКТОР. На панелях автоматов ПРИВОД СТЕРЖН. и НАСОС РЕАКТ. должны быть вдавлены.
+Reactor module, CORE panel: coolant above 60 %. If not, FILL to OPEN until it is, then SHUT.	Реакторный модуль, панель АКТИВНАЯ ЗОНА: теплоносителя больше 60 %. Если нет — ДОЛИВ в ОТКР, пока не наберётся, потом ЗАКР.
+Reactor module, LOOP PRESSURE panel: RELIEF to AUTO.	Реакторный модуль, панель ДАВЛЕНИЕ КОНТУРА: СБРОСНОЙ КЛАПАН — АВТО.
+Beside the core head: HEAD LOCK to LOCKED. The core head sealed.	Рядом с крышкой зоны: ЗАМОК КРЫШКИ — ЗАПЕРТО. Крышка закрыта.
+REACTOR panel: REACTOR MODE to POWER. FLOW INTERLOCK to NORM.	Панель РЕАКТОР: РЕЖИМ РЕАКТОРА — ЭНЕРГ. БЛОК. РАСХОДА — НОРМ.
+START-UP 2/2: BRINGING IT UP	ПУСК 2/2: ВЫВОД НА МОЩНОСТЬ
+ROD DEMAND to 0 (turn the knob with the wheel). Press SCRAM RESET: the SCRAM lamp goes out.	ЗАДАНИЕ СТЕРЖН. — 0 (крутите ручку колесом). Нажмите СБРОС АЗ: лампа АЗ гаснет.
+LOOP PUMP to a quarter or more. Under a fifth the core counts as uncooled and the rods stay in.	НАСОС КОНТУРА — на четверть или больше. Меньше пятой части — зона считается неохлаждаемой, и стержни не выйдут.
+TEMP SET to about three quarters: SET K reads about 1100.	УСТАВКА T — примерно на три четверти: табло уставки показывает около 1100 K.
+ROD CONTROL to AUTO. ROD POS climbs slowly, FISSION POWER and CORE TEMP follow.	УПР. СТЕРЖНЯМИ — АВТО. ПОЛОЖ. СТЕРЖН. медленно растёт, за ним МОЩН. ДЕЛЕНИЯ и T ЗОНЫ.
+CORE TEMP above 800 K: TURBINE to RUN.	T ЗОНЫ выше 800 K: ТУРБИНА — РАБОТА.
+ELECTRICAL POWER: GENERATOR > A to CLOSE. GEN kW shows what it makes.	ЭЛЕКТРОПИТАНИЕ: ГЕНЕРАТОР > A — ВКЛ. Табло ГЕН кВт показывает выработку.
+Never pull the rods out by hand on a cold core: see WHAT BLOWS IT UP.	Никогда не выдвигайте стержни вручную на холодной зоне: см. страницу о взрывах.
+Press SCRAM (lift its cover): the rods drop at once and FISSION POWER falls to 0.	Нажмите АЗ (откиньте крышку): стержни падают сразу, МОЩН. ДЕЛЕНИЯ — до 0.
+The heat stays: DECAY kW. Leave the LOOP PUMP running until CORE TEMP is under 650 K.	Тепло остаётся (остаточное тепло, кВт). Не выключайте НАСОС КОНТУРА, пока T ЗОНЫ не станет ниже 650 K.
+TURBINE to TRIP when GEN kW reaches 0.	Когда ГЕН кВт дойдёт до 0 — ТУРБИНА в ОТКЛ.
+To restart: ROD DEMAND to 0, SCRAM RESET, ROD CONTROL to AUTO (START-UP 2/2).	Повторный пуск: ЗАДАНИЕ СТЕРЖН. — 0, СБРОС АЗ, УПР. СТЕРЖНЯМИ — АВТО (ПУСК 2/2).
+In PROP the reactor heats hydrogen for the MAIN ENGINE instead of making power: the steps are in the station manual, NUCLEAR ENGINE.	В режиме ТЯГА реактор греет водород для маршевого двигателя вместо выработки энергии. Порядок — в руководстве станции, ЯДЕРНЫЙ ДВИГАТЕЛЬ.
+The hydrogen is the coolant now: no flow, no cooling. The FLOW INTERLOCK keeps the rods in until it flows.	Теперь теплоноситель — водород: нет расхода — нет охлаждения. БЛОК. РАСХОДА не даёт выйти стержням, пока он не пошёл.
+After the burn: COOLDOWN BYPASS open before the throttle comes down.	После импульса: ПРОДУВКА — ОТКР до того, как убрать РУД.

@@ -1,0 +1,9 @@
+LANTERN
+
+Double-click Lantern.exe. It is the whole game in one file:
+copy it anywhere. Headphones recommended.
+
+Esc in game shows the controls.
+
+The first launch spends a few seconds synthesizing sounds; they are cached
+in %APPDATA%\Godot\app_userdata\Lantern afterwards.

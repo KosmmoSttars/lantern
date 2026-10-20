@@ -1,0 +1,59 @@
+# The docking port, derelicts docked there, and the modules taken on for good.
+DOCKING PORT	СТЫКОВОЧНЫЙ ПОРТ
+Port hatch	Люк порта
+BEYOND	ЗА ЛЮКОМ
+PORT kPa	ПОРТ кПа
+PRESSURIZE	ЗАПОЛНЕНИЕ
+IN RANGE	В ЗОНЕ
+HATCH OPEN	ЛЮК ОТКРЫТ
+Vacuum beyond: nothing docked at the port	За люком вакуум: в порту ничего нет
+Pressure differs: PRESSURIZE on the DOCKING PORT panel, or the small valve under the wheel	Давление разное: ЗАПОЛНЕНИЕ на панели СТЫКОВОЧНЫЙ ПОРТ или маленький клапан под штурвалом
+NO DOCKING PORT	НЕТ СТЫКОВОЧНОГО ПОРТА
+SHUT THE PORT HATCH	ЗАКРОЙТЕ ЛЮК ПОРТА
+SHUT THE PORT HATCH FIRST	СНАЧАЛА ЗАКРОЙТЕ ЛЮК ПОРТА
+NOTHING IN RANGE	РЯДОМ НИЧЕГО НЕТ
+Docked: %s. It is airless: PRESSURIZE it from the DOCKING PORT panel before the port hatch will open.	Состыковано: %s. Воздуха в нём нет: включите ЗАПОЛНЕНИЕ на панели СТЫКОВОЧНЫЙ ПОРТ, иначе люк порта не откроется.
+ALREADY PART OF THE STATION	УЖЕ ЧАСТЬ СТАНЦИИ
+ALONGSIDE: DOCK AT THE PORT	РЯДОМ: СТЫКУЙТЕСЬ У ПОРТА
+MODULE %s	МОДУЛЬ %s
+SHUT THE HATCH TO IT FIRST	СНАЧАЛА ЗАКРОЙТЕ ЛЮК В НЕГО
+DOCKING PORT, ALL DOCKED THERE	ПОРТ И ВСЁ ПРИСТЫКОВАННОЕ
+PORT	ПОРТ
+Dock	Стыковочный отсек
+GREENHOUSE	ОРАНЖЕРЕЯ
+POWER MODULE	ЭНЕРГОМОДУЛЬ
+OBSERVATORY	ОБСЕРВАТОРИЯ
+Greenhouse	Оранжерея
+Power module	Энергомодуль
+Observatory	Обсерватория
+%s docked for good: part of the station now. Its hatch is the port from here on.	%s: модуль пристыкован навсегда и стал частью станции. Его дальний люк — теперь стыковочный порт.
+Food every two hours: pick the ripe trays	Еда каждые два часа: собирайте спелые лотки
+Battery +200 kWh, solar +5 kW	Батарея +200 кВт·ч, солнце +5 кВт
+Every scan is worth half as much again	Каждый скан стоит в полтора раза дороже
+Nothing ripe yet	Пока ничего не созрело
+Picked: %d ration trays' worth (%d aboard)	Собрано пайков: %d (на борту %d)
+Greenhouse trays	Лотки оранжереи
+Pick	Собрать
+%d ripe	спелых: %d
+GROW LAMPS	ФИТОЛАМПЫ
+RIPE	СПЕЛО
+TRAYS	ЛОТКИ
+NEXT	РОСТ
+CELL BANK %s	БАТАРЕЯ %s
+WINGS kW	КРЫЛЬЯ кВт
+TRACKER	ТРЕКЕР
+SCAN WORTH	ЦЕНА СКАНА
+EVERY SCAN FROM LANTERN IS WORTH MORE	КАЖДЫЙ СКАН С «ЛАНТЕРНА» СТОИТ ДОРОЖЕ
+Science pays for supplies: the SCIENCE and COMMS panels are low on Habitation's walls. The airlock and the docking port are off the Node.	Наука оплачивает снабжение: панели НАУКА и СВЯЗЬ — внизу на стенах жилого отсека. Шлюз и стыковочный порт — у узла.
+# The manual.
+DOCKING MODULES	СТЫКОВКА МОДУЛЕЙ
+The Node, port side: the DOCKING PORT panel. IN RANGE lights for one near. Shut the port hatch and press DOCK: it comes in and DOCKED lights.	Узел, левый борт: панель СТЫКОВОЧНЫЙ ПОРТ. Лампа В ЗОНЕ — обломок рядом. Закройте люк порта и нажмите СТЫКОВКА: он подойдёт, загорится СОСТЫКОВАН.
+It has no air. PRESSURIZE on until EQUAL lights (the air comes from the O2 and N2 tanks), or bleed the cabin's own air into it with the small valve under the wheel. Until then the port hatch stays shut.	Воздуха в нём нет. Включите ЗАПОЛНЕНИЕ, пока не загорится РАВНО (воздух берётся из баков O2 и N2), или стравите в него воздух станции маленьким клапаном под штурвалом. До тех пор люк порта не откроется.
+Inside it is dark: a torch or the helmet lamp (F). Hold LMB on a thing to take it into the stores: oxygen, nitrogen, water, rations, fuel, patch kits, medicine, film.	Внутри темно: фонарь или нашлемная лампа (F). Удерживайте ЛКМ на вещи, чтобы забрать её на склад: кислород, азот, вода, пайки, топливо, ремкомплекты, лекарства, плёнка.
+Shut the port hatch, then UNDOCK (lift the cover). Anyone still inside goes with it, and so does its air. An empty one is crossed out on the map. Nothing flies while one is docked.	Закройте люк порта, затем РАССТЫКОВКА (поднимите крышку). Кто остался внутри, улетит вместе с ним, как и его воздух. Пустой обломок на карте зачёркнут. Пока он пристыкован, станция никуда не летит.
+Whole modules wait in orbit too, sealed and lit: a greenhouse round Enceladus, an observatory round Europa, a power module round Phobos, now and then one round a far planet. A square with a bar on the map.	На орбитах ждут и целые модули, герметичные и с огнями: оранжерея у Энцелада, обсерватория у Европы, энергомодуль у Фобоса, а изредка и у далёких планет. На карте — квадрат с чертой.
+Fly to one and DOCK it at the DOCKING PORT like a derelict. Once in, it is part of the station for good, with its air and lamps, and it is gone from the map.	Долетите до него и пристыкуйте к СТЫКОВОЧНОМУ ПОРТУ, как обломок. После этого он навсегда часть станции, с воздухом и светом, а с карты пропадает.
+Its far hatch is the port from then on: the next one docks there. The hatches between modules are free; the last one holds the vacuum.	Его дальний люк становится портом: следующий модуль стыкуется туда. Люки между модулями свободны, последний держит вакуум.
+GREENHOUSE: a tray of food every two hours under its grow lamps (hold LMB on the floor tray to pick), and a little CO2 back into oxygen.	ОРАНЖЕРЕЯ: лоток еды каждые два часа под фитолампами (удерживайте ЛКМ на нижнем лотке, чтобы собрать) и немного CO2 обратно в кислород.
+POWER MODULE: 200 kWh more battery, 5 kW from its own wings. OBSERVATORY: every scan worth half as much again.	ЭНЕРГОМОДУЛЬ: +200 кВт·ч батареи и 5 кВт от собственных крыльев. ОБСЕРВАТОРИЯ: каждый скан стоит в полтора раза дороже.
+Habitation takes Life support, the reactor, the engines and the fuel with it. The Node takes the airlock and the docking port too, and all docked there.	Жилой отсек заберёт с собой жизнеобеспечение, реактор, двигатели и топливо. Узел — ещё и шлюз, и стыковочный порт со всем пристыкованным.

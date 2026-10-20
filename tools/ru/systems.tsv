@@ -1,0 +1,316 @@
+%s handwheel	%s — штурвал
+%s equalization valve	%s — клапан выравнивания
+%s lever	%s — рычаг
+Inner hatch	Внутренний люк
+Outer hatch	Внешний люк
+Reactor hatch	Люк реактора
+WATER 10 kg	ВОДА 10 кг
+PATCH KIT	РЕМКОМПЛЕКТ
+FILM PACK	КАССЕТА
+COOLANT	ТЕПЛОНОСИТЕЛЬ
+FUEL ASSEMBLY	ТВС
+REACTOR MODULE	РЕАКТОРНЫЙ МОДУЛЬ
+MELT IN	РАСПЛАВ ЧЕРЕЗ
+HATCH SHUT	ЛЮК ЗАКРЫТ
+JETTISON	СБРОС
+Nothing beyond: the reactor module is gone	Дальше ничего нет: реакторного модуля больше нет
+Core head	Крышка активной зоны
+Unseal	Открыть
+Seal the core head	Закрыть крышку зоны
+Unseal the core head	Открыть крышку зоны
+Core head open: the room is hot. Be quick.	Крышка открыта: в отсеке сильный фон. Действуйте быстро.
+Core head open HOT: get out!	Крышка открыта на ГОРЯЧЕЙ зоне: уходите!
+Fuel slot %d	Ячейка ТВС %d
+Pull the assembly out	Вынуть сборку
+Push a fresh one home (let go of it here)	Вставить свежую (отпустите её здесь)
+fuel %d %%	топливо %d %%
+Assembly home in slot %d	Сборка встала в ячейку %d
+Fresh fuel assembly	Свежая ТВС
+Spent fuel assembly (%d %% burnt)	Отработанная ТВС (выгорание %d %%)
+FUEL	ТОПЛИВО
+SLOT %d	ЯЧЕЙКА %d
+DECAY kW	ОСТ. ТЕПЛО кВт
+HEAD OPEN	КРЫШКА ОТКР.
+LOOP	КОНТУР
+COOLANT %	ТЕПЛОНОСИТЕЛЬ %
+RESERVE	ЗАПАС
+FILL	ДОЛИВ
+PUMP WEAR %	ИЗНОС НАСОСОВ %
+SHIELD %	ЗАЩИТА %
+DOSE mSv/h	ДОЗА мЗв/ч
+REFUEL: SCRAM, COOL BELOW 650 K, UNSEAL THE HEAD, SWAP, SEAL, RESET.	ПЕРЕГРУЗКА: АЗ, ОСТУДИТЬ НИЖЕ 650 K, ОТКРЫТЬ КРЫШКУ, ЗАМЕНИТЬ, ЗАКРЫТЬ, СБРОС АЗ.
+LOOP PRESSURE	ДАВЛЕНИЕ КОНТУРА
+LOOP MPa	КОНТУР МПа
+MPa	МПа
+PRESS HIGH	ДАВЛ. ВЫСОКОЕ
+VENTING	СБРОС ПАРА
+RELIEF	СБРОСНОЙ КЛАПАН
+HEAD OVERRIDE	ОБХОД БЛОКИРОВКИ
+OVRD	ОБХОД
+NEVER FILL A DRY CORE ABOVE 1000 K	НЕ ДОЛИВАТЬ СУХУЮ ЗОНУ ВЫШЕ 1000 K
+PUMP %s	НАСОС %s
+Coolant pump %s	Насос теплоносителя %s
+Service	Обслужить
+wear %d %%	износ %d %%
+Pump serviced: seals and bearings renewed	Насос обслужен: уплотнения и подшипники заменены
+FRESH FUEL	СВЕЖЕЕ ТОПЛИВО
+Fresh fuel rack	Стеллаж свежих ТВС
+Take one	Взять
+%d left	осталось %d
+No fresh fuel. More from the supply catalogue, the recycler, or a fuel depot	Свежего топлива нет. Ещё — в каталоге снабжения, из переработчика или с топливного склада
+WASTE RECYCLER	ПЕРЕРАБОТЧИК ОТХОДОВ
+OUTPUT	ВЫХОД
+PROCESS	ПУСК
+HOPPER: LET GO OF IT HERE	ПРИЁМНИК: ОТПУСТИТЕ ЗДЕСЬ
+Recycler hopper	Приёмник переработчика
+Drop it in	Бросить внутрь
+something to recycle (carry it here and let go)	что переработать (поднесите и отпустите)
+Not that: you will want it	Только не это: пригодится
+a fresh assembly (back to the rack)	свежая ТВС (обратно на стеллаж)
+Recycled: %s	Переработано: %s
+Not enough to make %s	Не хватает на %s
+Recycler made: %s	Переработчик сделал: %s
+CORE HEAD	КРЫШКА ЗОНЫ
+Shut down and cool it first.\nOpen, the room is lethal.	Сначала заглушить и остудить.\nОткрытая — смертельна.
+Core head sealed	Крышка зоны закрыта
+a fuel assembly	ТВС
+MATERIAL %4d   SPENT FUEL %d	МАТЕРИАЛ %4d   ОТРАБ. ТВС %d
++%d SPENT	+%d ОТРАБ.
+Coolant leak	Утечка теплоносителя
+Seal it (patch kit)	Заделать (ремкомплект)
+No patch kits aboard	На борту нет ремкомплектов
+Leak sealed. Top the loop up: FILL on the CORE panel	Утечка заделана. Долейте контур: ДОЛИВ на панели АКТИВНАЯ ЗОНА
+Cracked shield	Трещина в защите
+Patch the shield (patch kit)	Заделать защиту (ремкомплект)
+Shield patched	Защита заделана
+SHUT THE REACTOR HATCH FIRST	СНАЧАЛА ЗАКРОЙТЕ ЛЮК РЕАКТОРА
+GET OUT OF THE MODULE FIRST	СНАЧАЛА ВЫЙДИТЕ ИЗ МОДУЛЯ
+Reactor manual	Руководство по реактору
+Station manual	Руководство по станции
+REACTOR MANUAL	РУКОВОДСТВО ПО РЕАКТОРУ
+STATION MANUAL	РУКОВОДСТВО ПО СТАНЦИИ
+LIGHTS	СВЕТ
+CABIN FANS	ВЕНТИЛЯЦИЯ
+O2 GEN	ГЕН. O2
+CO2 SCRUB	ПОГЛ. CO2
+WATER REC	РЕГЕН. ВОДЫ
+CABIN HEAT	НАГРЕВ КАБ.
+CABIN LOOP	КОНТУР КАБ.
+RX PUMP	НАСОС РЕАКТ.
+ROD DRIVE	ПРИВОД СТЕРЖН.
+TURBOPUMP	ТНА
+H2 CRYO	КРИО H2
+NAV COMP	НАВ. ВЫЧ.
+STAR TRK	ЗВ. ДАТЧИК
+CMG	ГИРОДИНЫ
+RCS HEAT	ОБОГР. РСУ
+COMMS	СВЯЗЬ
+GALLEY	КАМБУЗ
+LAB	ЛАБ.
+TORCH FIELD	ПОЛЕ ФАКЕЛА
+RX OVERTEMP	ПЕРЕГРЕВ РЕАКТ.
+RX SCRAM	АЗ РЕАКТОРА
+CORE FLOW	РАСХОД ЗОНЫ
+CORE MELT	РАСПЛАВ ЗОНЫ
+COOLANT LOW	МАЛО ТЕПЛОНОС.
+FUEL LOW	МАЛО ТОПЛИВА
+PUMP WEAR	ИЗНОС НАСОСОВ
+SHIELD	ЗАЩИТА
+RX POWER HIGH	МОЩНОСТЬ ВЫСОКА
+MODE INHIBIT	РЕЖИМ ЗАПРЕЩЁН
+BUS A UV	ШИНА A НИЗК.
+BUS B UV	ШИНА B НИЗК.
+BATT LOW	БАТАРЕЯ РАЗРЯЖ.
+LOOP HOT	КОНТУР ГОРЯЧИЙ
+CABIN TEMP	T КАБИНЫ
+PPO2 LOW	МАЛО O2
+PPCO2 HIGH	МНОГО CO2
+CABIN PRESS	ДАВЛ. КАБИНЫ
+H2 PRESS	ДАВЛ. H2
+H2 BOILOFF	ВЫКИПАНИЕ H2
+PUMP CAVIT	КАВИТАЦИЯ ТНА
+RCS COLD	РСУ ХОЛОДНАЯ
+CMG SAT	ГИРОДИНЫ НАСЫЩ.
+RAD STOW	СЛОЖИТЬ РАДИАТ.
+ARRAY STOW	СЛОЖИТЬ ПАНЕЛИ
+BRK TRIP	АВТОМАТ ВЫБИТ
+TORCH FLAMEOUT	ФАКЕЛ ПОГАС
+D-HE3 LOW	МАЛО D-HE3
+THE PRIMARY LOOP BURST	РАЗРЫВ ПЕРВОГО КОНТУРА
+A POWER EXCURSION	РАЗГОН МОЩНОСТИ
+NO REACTOR	НЕТ РЕАКТОРА
+SHUT THE REACTOR DOWN (SCRAM)	ЗАГЛУШИТЕ РЕАКТОР (АЗ)
+CORE TOO HOT: %d K, WAIT FOR %d	ЗОНА ГОРЯЧАЯ: %d K, ЖДИТЕ %d
+THE CORE HEAD BLEW OUT	ВЫБРОСИЛО КРЫШКУ ЗОНЫ
+WARNING	АВАРИЯ
+CAUTION	ВНИМАНИЕ
+ENG	ТЕХ
+NODE	УЗЕЛ
+LAB	ЛАБ
+AIRLOCK	ШЛЮЗ
+HAB	ЖИЛ
+LIFE	СЖО
+RX	РЕАКТ
+REACTOR CONTROL, POWER, BREAKERS	УПРАВЛЕНИЕ РЕАКТОРОМ, ПИТАНИЕ, АВТОМАТЫ
+COMMS DISH	АНТЕННА СВЯЗИ
+SCIENCE, COMMS, SUPPLY	НАУКА, СВЯЗЬ, СНАБЖЕНИЕ
+GALLEY, MEDICINE, BED	КАМБУЗ, АПТЕЧКА, СПАЛЬНИК
+AIR, WATER, STORES	ВОЗДУХ, ВОДА, ЗАПАСЫ
+BATTERY AND SOLAR ONLY AFTER	ПОТОМ ТОЛЬКО БАТАРЕИ И СОЛНЦЕ
+MAIN ENGINE, TORCH, ALL FUEL	ДВИГАТЕЛЬ, ФАКЕЛ, ВСЁ ТОПЛИВО
+MODULE SEPARATION	ОТДЕЛЕНИЕ МОДУЛЕЙ
+MODULE	МОДУЛЬ
+SEPARATE	ОТДЕЛИТЬ
+ARM first	Сначала ВЗВОД
+SEPARATE: %s	ОТДЕЛИТЬ: %s
+ALREADY GONE	УЖЕ ОТДЕЛЁН
+CANNOT	НЕЛЬЗЯ
+GOES WITH IT:	УЙДЁТ ВМЕСТЕ С НИМ:
+ARMED: READY	ВЗВЕДЕНО: ГОТОВО
+YOU ARE IN IT	ВЫ ВНУТРИ
+UNDOCK THE DERELICT FIRST	СНАЧАЛА ОТСТЫКУЙТЕ ОБЛОМОК
+COMMAND DECK	РУБКА
+ENGINEERING	ТЕХОТСЕК
+HABITATION	ЖИЛОЙ ОТСЕК
+LABORATORY	ЛАБОРАТОРИЯ
+STERN	КОРМА
+Command deck	Рубка
+Engineering	Техотсек
+Node	Узел
+Habitation	Жилой отсек
+Life support	Жизнеобеспечение
+Reactor	Реактор
+Laboratory	Лаборатория
+Airlock	Шлюз
+Stern	Корма
+ENGINEERING  >	ТЕХОТСЕК  >
+<  COMMAND DECK	<  РУБКА
+NODE  >	УЗЕЛ  >
+<  ENGINEERING	<  ТЕХОТСЕК
+HABITATION  >	ЖИЛОЙ ОТСЕК  >
+<  NODE	<  УЗЕЛ
+LIFE SUPPORT  >	ЖИЗНЕОБЕСПЕЧЕНИЕ  >
+<  HABITATION	<  ЖИЛОЙ ОТСЕК
+REACTOR  >	РЕАКТОР  >
+<  LIFE SUPPORT	<  ЖИЗНЕОБЕСПЕЧЕНИЕ
+LIFE SUPPORT IS THE FLARE SHELTER	ЖИЗНЕОБЕСПЕЧЕНИЕ — УБЕЖИЩЕ ПРИ ВСПЫШКЕ
+BLAST SEAL	АВАРИЙНАЯ ЗАГЛУШКА
+PUMP	НАСОС
+DEPRESS	ОТКАЧКА
+LOCK PRESS	ДАВЛ. ШЛЮЗА
+kPa	кПа
+LOCK kPa	ШЛЮЗ кПа
+EQUAL	РАВНО
+VACUUM	ВАКУУМ
+INNER OPEN	ВНУТР. ОТКР.
+OUTER OPEN	ВНЕШН. ОТКР.
+CABIN kPa	КАБИНА кПа
+DEPRESS TO 0 BEFORE THE OUTER HATCH. IT HAS NO INTERLOCK.	ОТКАЧАЙТЕ ДО 0 ПЕРЕД ВНЕШНИМ ЛЮКОМ. БЛОКИРОВКИ НЕТ.
+NO DERELICT IN RANGE	РЯДОМ НЕТ ОБЛОМКОВ
+DOCK	СТЫКОВКА
+UNDOCK	РАССТЫКОВКА
+DERELICT	ОБЛОМОК
+DOCKED	СОСТЫКОВАН
+UMBILICAL	ФАЛ
+SPECTRO	СПЕКТРО
+MAGNETO	МАГНИТО
+TELESCOPE	ТЕЛЕСКОП
+PARTICLES	ЧАСТИЦЫ
+SCIENCE	НАУКА
+INSTRUMENTS	ПРИБОРЫ
+LAB POWER	ПИТАНИЕ ЛАБ.
+MAG BOOM	ШТАНГА МАГН.
+STOWED	СЛОЖЕНА
+SCAN	СКАН
+DRIVE MB	НАКОПИТЕЛЬ МБ
+DATA VALUE	ЦЕННОСТЬ ДАННЫХ
+NEXT SCAN	СЛЕД. СКАН
+COMMS AND SUPPLY	СВЯЗЬ И СНАБЖЕНИЕ
+LINK	КАНАЛ
+DISH	АНТЕННА
+UPLINK	ПЕРЕДАЧА
+SEND	ПЕРЕДАТЬ
+RELAY	РЕТРАНСЛ.
+CREDIT	КРЕДИТ
+TO SEND MB	К ПЕРЕДАЧЕ МБ
+SENDING	ПЕРЕДАЧА
+SUPPLY	СНАБЖЕНИЕ
+ITEM	ПОЗИЦИЯ
+ORDER	ЗАКАЗАТЬ
+Ordered: %s	Заказано: %s
+CARGO PORT	ГРУЗОВОЙ ПОРТ
+DRONE WAITING	ДРОН ЖДЁТ
+CRATE ABOARD	ГРУЗ НА БОРТУ
+SCREEN	ЭКРАН
+LOG	ЖУРНАЛ
+SIGN OFF	КОНЕЦ СВЯЗИ
+Not yet	Ещё рано
+Supply crate	Ящик снабжения
+Unpack	Распаковать
+Unpacked: %s	Распаковано: %s
+TARGET %s	ЦЕЛЬ %s
+%.0f km	%.0f км
+SCANNING %d%%	СКАНИРОВАНИЕ %d%%
+READY	ГОТОВО
+SUPPLY  CREDIT %d	СНАБЖЕНИЕ  КРЕДИТ %d
+NO DELIVERIES	ДОСТАВОК НЕТ
+WAITING	ЖДЁТ
+MESSAGES FROM THE OFFICE	СООБЩЕНИЯ БЮРО
+RATION	ПАЁК
+PACKS LEFT	ОСТАЛОСЬ
+WATER	ВОДА
+TANK kg	БАК кг
+Eat when hungry. Drink often.	Ешь, когда голоден. Пей чаще.
+MEDICAL	АПТЕЧКА
+RAD PILL	ТАБЛ. ОТ РАДИАЦИИ
+PILLS	ТАБЛЕТКИ
+DOSE mSv	ДОЗА мЗв
+KEEPER	СМОТРИТЕЛЬ
+HEALTH	ЗДОРОВЬЕ
+FED	СЫТОСТЬ
+RESTED	БОДРОСТЬ
+FITNESS	ФОРМА
+DOSE %6d mSv  %s	ДОЗА %6d мЗв  %s
+SICK	БОЛЕН
+NO COMPLAINTS	ЖАЛОБ НЕТ
+Sleeping bag	Спальный мешок
+Sleep	Спать
+not tired yet	ещё не устал
+Photos	Фотографии
+PHOTOS	ФОТО
+Photo board	Доска для фото
+Pin the photo up	Приколоть фото
+a photo (catch the camera in Habitation: E raises it, LMB shoots)	фото (поймайте камеру в жилом отсеке: E — к глазу, ЛКМ — снимок)
+%d photo%s	фото: %d%s
+Pinned up  (%d on the board)	Приколото  (на доске %d)
+Instant camera	Моментальная камера
+FILM %d      LMB  TAKE THE PHOTO      E  LOWER	КАДРОВ %d      ЛКМ  СНЯТЬ      E  ОПУСТИТЬ
+No film left. More from the supply catalogue: INSTANT FILM	Плёнка кончилась. Ещё — в каталоге снабжения: КАССЕТЫ
+Click. %d shot%s left	Щёлк. Осталось кадров: %d%s
+Photo	Фото
+Hull breach	Пробоина
+Patch	Заделать
+leaking  -  %d patch kits	утечка  -  ремкомплектов: %d
+No patch kits	Нет ремкомплектов
+No patch kits left	Ремкомплекты кончились
+Breach patched  (%d kits left)	Пробоина заделана  (ремкомплектов: %d)
+Broken %s	Повреждено: %s
+Repair	Починить
+%s repaired	%s: починено
+high-gain dish	остронаправленная антенна
+port solar wing	левое солнечное крыло
+starboard solar wing	правое солнечное крыло
+radiator 1	радиатор 1
+radiator 2	радиатор 2
+radiator 3	радиатор 3
+radiator 4	радиатор 4
+Geiger counter	Счётчик Гейгера
+OVER	ПЕРЕГР
+DP-5	ДП-5
+mSv/h	мЗв/ч
+Pressure differs: turn the small valve under the wheel, or REPRESS on the AIRLOCK panel	Давление разное: поверните маленький клапан под штурвалом или НАДДУВ на панели ШЛЮЗ
+HEAD LOCK	ЗАМОК КРЫШКИ
+LOCKED	ЗАПЕРТО
+FREE	СВОБОДНО
+%s. Or free it: the HEAD LOCK switch beside the head	%s. Или освободите: тумблер ЗАМОК КРЫШКИ рядом с крышкой
+Flashlight	Фонарик
